@@ -1,0 +1,4 @@
+name: "Extract Time Series"
+runs:
+  using: "node12"
+  main: "action.js"
