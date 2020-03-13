@@ -1,4 +1,6 @@
-on: [push]
+on:
+  schedule:
+    - cron: "15 2,10,18 * * *"
 
 jobs:
   extract_job:
