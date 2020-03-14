@@ -1,0 +1,83 @@
+html {
+  font-family: "Source Sans Pro";
+  font-size: 14px;
+}
+h1 {
+  font-weight: 400;
+  text-align: center;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+}
+.links {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 1em;
+}
+.links a {
+  margin: 0.05em 0.5em;
+  font-size: 0.8em;
+  color: #2493f2;
+}
+main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+section {
+  flex: 1;
+  width: 550px;
+  height: 380px;
+  position: relative;
+  margin: 0.5em;
+  padding: 0.5em 0.5em;
+  box-sizing: border-box;
+  border: 1px solid #eee;
+  border-radius: 4px;
+}
+section h3 {
+  text-align: center;
+  font-weight: normal;
+  font-size: 1.5em;
+  margin-top: 0;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+}
+section .values {
+  display: flex;
+  width: 400px;
+  margin: auto;
+  margin-bottom: 1em;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+}
+section .values .box {
+  flex: 1;
+  text-align: center;
+  border: 1px solid #ddd;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+  margin: 0 0.5em;
+}
+section .values .box .value {
+  font-weight: 400;
+  font-size: 1.2em;
+}
+section .values .box .caption {
+  font-weight: 300;
+  font-size: 0.9em;
+}
+section canvas {
+  margin: 0 auto;
+}
+html.dark {
+  background-color: #111;
+  color: #bdbdbd;
+}
+html.dark section {
+  background: #222;
+  border: 1px solid #363636;
+}
+html.dark section .values .box {
+  border: 1px solid #363636;
+  background-color: #303030;
+}
+html.dark section .values .box .value {
+  color: #fff;
+}
