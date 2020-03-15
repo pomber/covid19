@@ -28,3 +28,4 @@ The json contains the number of Coronavirus confirmed cases, deaths, and recover
 ### Projects using this dataset
 - [COVID-19 Daily Report](https://icebob.info/covid19/) ([repo](https://github.com/icebob/covid19)): Coronavirus daily report, updated hourly
 
+[+ Add yours](https://github.com/pomber/covid19/edit/master/readme.md)
