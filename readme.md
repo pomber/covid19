@@ -2,7 +2,7 @@ Transforms the data from [CSSEGISandData/COVID-19](https://github.com/CSSEGISand
 
 The json contains the number of Coronavirus confirmed cases, deaths, and recovered cases for every country and every day since 2020-1-22:
 
-```json
+```
 {
   "Thailand": [
     {
