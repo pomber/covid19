@@ -40,7 +40,7 @@ const countries = Object.keys(confirmed);
 const results = {};
 countries.forEach(country => {
   results[country] = dates.map(date => {
-    const [month, day] = date.split("/");
+    const [month, day] = date.split("/").map(x => x.padStart(2, 0));
     return {
       date: `2020-${month}-${day}`,
       confirmed: confirmed[country][date],
