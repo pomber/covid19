@@ -42,6 +42,6 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 GraphQL API](https://covid19-graphql.now.sh/) ([repo](https://github.com/rlindskog/covid19-graphql))
 - [COVID-19 Global Chart](https://gabrielcesar.github.io/covid/) ([repo](https://github.com/gabrielcesar/covid)): Chart GeoMap with last status by country.
 - [COVID-19 Stats](https://corona.netflex.dev/) ([repo](https://github.com/thomas-alrek/covid-19-stats)): A simple mobile friendly dashboard visualizing the latest stats of the COVID-19 outbreak.
-
+- [Corona.log](https://corona-log.now.sh/) ([repo](https://github.com/biewxw/corona.log)): That's a simple COVID-19 data checker per region
 
 [+ Add yours](https://github.com/pomber/covid19/edit/master/readme.md)
