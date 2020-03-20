@@ -46,5 +46,6 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 Trends and Growth Rate](https://github.com/dariocazzani/COVID-19-trends): A Python implementation of growth rate and other trend analysis
 - [Are we dead yet](https://paroj.github.io/arewedeadyet/) ([repo](https://github.com/paroj/arewedeadyet)): Live graphs of confirmed, infected and infection rate. Outbreak normalised for comparison.
 - [COVID-19 How Bad Is It](https://faizalazman.github.io/) ([repo](https://github.com/faizalazman/faizalazman.github.io)): Live graphs with latest news involving Covid-19,
-- [epidemic-simulator](https://github.com/RemiTheWarrior/epidemic-simulator): Mathematical model using Macroscopic Rate Equations for simulating the future of the epidemic,
+- [epidemic-simulator](https://github.com/RemiTheWarrior/epidemic-simulator): Mathematical model using Macroscopic Rate Equations for simulating the future of the epidemic
+
 [+ Add yours](https://github.com/pomber/covid19/edit/master/readme.md)
