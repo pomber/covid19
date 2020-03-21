@@ -49,5 +49,6 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [epidemic-simulator](https://github.com/RemiTheWarrior/epidemic-simulator): Mathematical model using Macroscopic Rate Equations for simulating the future of the epidemic
 - [COVID-19 Sri Lanka Tracker](https://covid-19-sl.netlify.com/) ([repo](https://github.com/dhanushkac/covid-19-sl-tracker)): Live Updates of COVID-19 Patients in Sri Lanka
 - [COVID-19 Countries Trends & Comparison](https://energ.ee/corona-virus) ([repo](https://github.com/energee/corona-virus)): Country comparison of COVID-19 cases, with per-capita and growth views.
+- [felipec covid-19](https://felipec.github.io/covid-19/) ([repo](https://github.com/felipec/covid-19)): Trajectory of confirmed COVID-19 cases per country after 100 in logarithmic scale and growth factor.
 
 [+ Add yours](https://github.com/pomber/covid19/edit/master/readme.md)
