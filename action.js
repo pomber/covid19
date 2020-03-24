@@ -5,8 +5,8 @@ const parse = require("csv-parse/lib/sync");
 const WORKSPACE = process.env.GITHUB_WORKSPACE;
 const DATA_REPO = "data"; // from main.yml checkout action path
 const MAIN_REPO = "main"; // from main.yml checkout action path
-const FILENAME_CONFIRMED = "time_series_19-covid-Confirmed.csv";
-const FILENAME_DEATHS = "time_series_19-covid-Deaths.csv";
+const FILENAME_CONFIRMED = "time_series_covid19_confirmed_global.csv";
+const FILENAME_DEATHS = "time_series_covid19_deaths_global.csv";
 const FILENAME_RECOVERED = "time_series_19-covid-Recovered.csv";
 
 const dataPath = path.join(
