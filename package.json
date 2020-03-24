@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "csv-parse": "^4.8.8"
+  },
+  "scripts": {
+    "try": "node test/test.js"
   }
 }
