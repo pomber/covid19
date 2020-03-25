@@ -72,6 +72,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 Trends](https://bmaupin.github.io/covid19-trends/) ([repo](https://github.com/bmaupin/covid19-trends)): Simple charts showing COVID-19 trends
 - [Covid-19 Race](https://thijmen.xyz/coronarace/) ([repo](https://github.com/Wendelstein7/Covid19-Race)) A basic html5/css/js webapp to compare the cases from a select few countries.
 - [COVID-19 India dashboard](https://cov19in.herokuapp.com/)([repo](https://github.com/ankushop2/CoVID19DashBoard)) - A simple dashboard made with Flask specifically for India with stats of various states and predictions of what's going to happen in the next five days.
+- [Open COVID19 Map](https://covid19map.io) Open map visualization with alternative data sources, containment scores, testing rate projection, replay mode
 
 #### Analysis
 
