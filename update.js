@@ -49,9 +49,10 @@ function update(dataPath, outputPath) {
         date: `2020-${month}-${day}`,
         confirmed: confirmed[country][date],
         deaths: deaths[country][date],
-        recovered: recovered[recoverdCountry]
-          ? recovered[recoverdCountry][date]
-          : null
+        recovered:
+          recovered[recoverdCountry] && recovered[recoverdCountry][date] != null
+            ? recovered[recoverdCountry][date]
+            : null
       };
     });
   });
