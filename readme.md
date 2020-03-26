@@ -74,7 +74,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Covid-19 Race](https://thijmen.xyz/coronarace/) ([repo](https://github.com/Wendelstein7/Covid19-Race)) A basic html5/css/js webapp to compare the cases from a select few countries.
 - [COVID-19 India dashboard](https://cov19in.herokuapp.com/)([repo](https://github.com/ankushop2/CoVID19DashBoard)) - A simple dashboard made with Flask specifically for India with stats of various states and predictions of what's going to happen in the next five days.
 - [Open COVID19 Map](https://covid19map.io)([repo](https://github.com/daniel-karl/covid19-map)) Open map visualization with alternative data sources, containment scores, testing rate projection, replay mode
-- [I am Covid -19 🦠](https://iamcovid-19.netlify.com/)([repo](https://github.com/cryptodoct0r/Covid-19-Status-gql)) - Visualization of the covid-19 dataset using Nuxtjs(vuejs), Graphql and valuable information about geeting through the Covid-19 pandemic.
+- [I am Covid -19 🦠](https://iamcovid-19.netlify.com/)([repo](https://github.com/cryptodoct0r/Covid-19-Status-gql)) - Visualization of the covid-19 dataset using Nuxtjs(vuejs), Graphql and valuable information about getting through the Covid-19 pandemic.
 - [Simple COVID-19 Tracker](https://www.randallarms.com/covid-19)([repo](https://github.com/randallarms/covid-19)): Mobile-friendly and minimal page that displays the current total count of coronavirus cases and deaths in a selected region.
 
 #### Analysis
