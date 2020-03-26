@@ -4,7 +4,7 @@ const parse = require("csv-parse/lib/sync");
 
 const FILENAME_CONFIRMED = "time_series_covid19_confirmed_global.csv";
 const FILENAME_DEATHS = "time_series_covid19_deaths_global.csv";
-const FILENAME_RECOVERED = "time_series_19-covid-Recovered.csv";
+const FILENAME_RECOVERED = "time_series_covid19_recovered_global";
 
 function extract(filepath) {
   const csv = fs.readFileSync(filepath);
