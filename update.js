@@ -12,16 +12,23 @@ function extract(filepath) {
   const [province, country, lat, long, ...dates] = headers;
   const countList = {};
 
+  // HACK: CSVs have different date formats
+  const normalDates = dates.map(date => {
+    const [month, day] = date.split("/");
+    return `2020-${month}-${day}`;
+  });
+
   rows.forEach(([province, country, lat, long, ...counts]) => {
     countList[country] = countList[country] || {};
-    dates.forEach((date, i) => {
+    normalDates.forEach((date, i) => {
       countList[country][date] = countList[country][date] || 0;
       countList[country][date] += +counts[i];
     });
   });
-  return [countList, dates];
+  return [countList, normalDates];
 }
 
+// HACK: CSVs have different country names
 const patchCountryNames = {
   Bahamas: "Bahamas, The",
   Gambia: "Gambia, The"
@@ -35,6 +42,7 @@ function update(dataPath, outputPath) {
   const [recovered] = extract(path.resolve(dataPath, FILENAME_RECOVERED));
   const countries = Object.keys(confirmed);
   const results = {};
+
   countries.forEach(country => {
     // Some country names are different in the recovered dataset
     const recoverdCountry = patchCountryNames[country] || country;
@@ -44,9 +52,8 @@ function update(dataPath, outputPath) {
     }
 
     results[country] = dates.map(date => {
-      const [month, day] = date.split("/");
       return {
-        date: `2020-${month}-${day}`,
+        date,
         confirmed: confirmed[country][date],
         deaths: deaths[country][date],
         recovered:
