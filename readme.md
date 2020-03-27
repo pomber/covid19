@@ -44,7 +44,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 Ruby Gem](https://github.com/everythings-cancelled/pomber_covid19)
 
 #### Visualizations
-
+- [COVID-19 World](https://andreasagap.github.io/Covid19-World/) ([repo](https://github.com/andreasagap/Covid19-World)): COVID-19 Global Report
 - [COVID-19 Comparator](https://covid-comparator.netlify.com/) ([repo](https://github.com/ElSamplio/coronavirus-comparator)): Coronavirus cases comparator by countries, from chosen date and number of days (PWA)
 - [Mobile Friendly COVID-19 Report](http://corona-status.live/) ([repo](https://github.com/ameerthehacker/corona-status)): Coronavirus daily report in a mobile friendly website (PWA)
 - [COVID-19 Daily Report](https://icebob.info/covid19/) ([repo](https://github.com/icebob/covid19)): Coronavirus daily report, updated hourly
