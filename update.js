@@ -28,11 +28,8 @@ function extract(filepath) {
   return [countList, normalDates];
 }
 
-// HACK: CSVs have different country names
-const patchCountryNames = {
-  Bahamas: "Bahamas, The",
-  Gambia: "Gambia, The"
-};
+// HACK: Now all the names are the same, but leaving this just in case
+const patchCountryNames = {};
 
 function update(dataPath, outputPath) {
   const [confirmed, dates] = extract(
