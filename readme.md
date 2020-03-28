@@ -79,6 +79,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 Report](https://covid19-report.netlify.com/)([repo](https://github.com/viniciusrodrigues1a/covid19-report)): Coronavirus information by country in a mobile-friendly SPA.
 - [Visualizing COVID-19 with D3](https://covid.lonnygomes.com)([repo](https://github.com/LonnyGomes/covid-sankey-vizualization)): A responsive D3-based data visualization that leverages a [Sankey diagram](https://en.wikipedia.org/wiki/Sankey_diagram) to display the breakdown of the worldwide COVID-19 cases.
 - [Coronavirus-meter](https://coronavirus-meter.com)([repo](https://github.com/agaktr/coronavirus-meter)): Coronavirus meter provides statistics from cases all around the world. View cases from each country up to two months before. Coronavirus cases, deaths, recovered in statistical numbers from all around the world.
+- [COVID-19 Monitoring And Visualization](https://covid.ngaah.id/)([repo](https://github.com/ximplah/covidjs)): World COVID-19 Tracking, historical data and overview using NodeJS Server  
 
 #### Analysis
 
