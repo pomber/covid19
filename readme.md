@@ -23,15 +23,16 @@ The json contains the number of Coronavirus confirmed cases, deaths, and recover
 }
 ```
 
-For example, if you want to use it from a web site: 
+For example, if you want to use it from a web site:
+
 ```js
 fetch("https://pomber.github.io/covid19/timeseries.json")
   .then(response => response.json())
   .then(data => {
     data["Argentina"].forEach(({ date, confirmed, recovered, deaths }) =>
       console.log(`${date} active cases: ${confirmed - recovered - deaths}`)
-    )
-  })
+    );
+  });
 ```
 
 ### Projects using this dataset ([+ add yours](https://github.com/pomber/covid19/edit/master/readme.md))
@@ -66,7 +67,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID Reports](https://covidreports.netlify.com/) ([repo](https://github.com/kwasniew/covid.reports)): Coronavirus trends comparison by country
 - [#daysbehinditaly](https://daysbehinditaly.com/) ([repo](https://github.com/peachteaboba/daysbehinditaly)): Number of days various countries are behind Italy in total COVID-19 cases assuming similar case growth rate
 - [Covid-19 Project to track the spread of coronavirus](https://main-sh4.github.io/cv19/) ([repo](https://github.com/main-sh4/cv19)): Coronavirus information by country
-- [Covid-19 Progress Reports by Country](https://www.bigpicturing.com/) ([repo](https://github.com/Psyzoo/covid19)): Coronavirus (Fight against) Progress  by country
+- [Covid-19 Progress Reports by Country](https://www.bigpicturing.com/) ([repo](https://github.com/Psyzoo/covid19)): Coronavirus (Fight against) Progress by country
 - [COVID-19-LK](https://hela-pawura.github.io/COVID-19-Sri-Lanka/) ([repo](https://github.com/Hela-Pawura/COVID-19-Sri-Lanka)): A Sri Lankan COVID-19 Tracker with a map and dark theme <3
 - [COVID-19 Mauritius Statistics](https://covid19-mauritius.netlify.com/) ([repo](https://github.com/MrSunshyne/covid19-mauritius/)): A simple page with stats about the current COVID-19 situation in the small island of Mauritius.
 - [Flattening the Curve by Country | COVID-19 🦠](https://flattening-the-curve.commutatus.com/) ([repo](https://github.com/commutatus/covid-19-flattening-the-curve)): A simple dashboard to showcase flattening of the curve by each country affected with COVID-19 - plotted over time.
@@ -82,8 +83,9 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Visualizing COVID-19 with D3](https://covid.lonnygomes.com) ([repo](https://github.com/LonnyGomes/covid-sankey-vizualization)): A responsive D3-based data visualization that leverages a [Sankey diagram](https://en.wikipedia.org/wiki/Sankey_diagram) to display the breakdown of the worldwide COVID-19 cases.
 - [Coronavirus-meter](https://coronavirus-meter.com) ([repo](https://github.com/agaktr/coronavirus-meter)): Coronavirus meter provides statistics from cases all around the world. View cases from each country up to two months before. Coronavirus cases, deaths, recovered in statistical numbers from all around the world.
 - [Telegram COVID-19 Monitoring](https://github.com/f2acode/covid-19-telegram) Telegram alert everyday with the statistics of COVID-19 in each country.
-- [Corona in Charts](https://coronaincharts.com/) ([repo](https://github.com/blaz-blazer/coronaincharts)): Corona graphs for each country with total cases, active cases, recovered and fatalities. 
-- [COVID-19 Monitoring And Charting](https://covid.ngaah.id/)([repo](https://github.com/ximplah/covidjs)): World COVID-19 Tracking, historical data and overview using NodeJS Server  
+- [Corona in Charts](https://coronaincharts.com/) ([repo](https://github.com/blaz-blazer/coronaincharts)): Corona graphs for each country with total cases, active cases, recovered and fatalities.
+- [COVID-19 Monitoring And Charting](https://covid.ngaah.id/)([repo](https://github.com/ximplah/covidjs)): World COVID-19 Tracking, historical data and overview using NodeJS Server
+- [COVID-19 Reaction Tracker](https://zealous-dubinsky-aae850.netlify.com) ([Source](https://github.com/tpkahlon/javascript100/tree/master/29)): Track user reactions across the globe based on `COVID-19` API repository maintained by Rodrigo Pombo.
 
 #### Analysis
 
@@ -92,5 +94,3 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [epidemic-simulator](https://epidemic-simulator.now.sh) ([repo](https://github.com/RemiTheWarrior/epidemic-simulator)): Mathematical model using Macroscopic Rate Equations for simulating the future of the epidemic
 - [Coronavirus Cases, Deaths, and Recoveries by Country](https://nickmccullum.com/coronavirus-data-by-country/) ([repo](https://github.com/nicholasmccullum/website)) - a blog post with charts that update daily
 - [COVID-19 Best fit evolution](https://github.com/michetonu/covid19-best-fit-evolution) Visualizing the evolution of a best-fit logistic curve over time, showing the difficulty of predicting the number of future cases and deaths
-
-
