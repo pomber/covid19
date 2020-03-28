@@ -85,7 +85,9 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Telegram COVID-19 Monitoring](https://github.com/f2acode/covid-19-telegram) Telegram alert everyday with the statistics of COVID-19 in each country.
 - [Corona in Charts](https://coronaincharts.com/) ([repo](https://github.com/blaz-blazer/coronaincharts)): Corona graphs for each country with total cases, active cases, recovered and fatalities.
 - [COVID-19 Monitoring And Charting](https://covid.ngaah.id/)([repo](https://github.com/ximplah/covidjs)): World COVID-19 Tracking, historical data and overview using NodeJS Server
-- [COVID-19 Reaction Tracker](https://zealous-dubinsky-aae850.netlify.com) ([Source](https://github.com/tpkahlon/javascript100/tree/master/29)): Track user reactions across the globe based on `COVID-19` API repository maintained by Rodrigo Pombo.
+- [COVID-19 Reaction Tracker](https://zealous-dubinsky-aae850.netlify.com) ([repo](https://github.com/tpkahlon/javascript100/tree/master/29)): Track user reactions across the globe
+- [COVID-19 Data Visualization Using R Shiny](https://rahulch.shinyapps.io/covid)([repo](https://github.com/rahulchauhan049/covidDashboard)): Data Summary, Data Visualization, World Map and differnt Analytics plots. Made in r shiny
+- [covid19-psvita-data](https://github.com/robDevs/covid19-psvita-data): An app for viewing COVID-19 Data and graphs on a Playstation Vita
 
 #### Analysis
 
