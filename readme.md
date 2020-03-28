@@ -84,6 +84,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Telegram COVID-19 Monitoring](https://github.com/f2acode/covid-19-telegram) Telegram alert everyday with the statistics of COVID-19 in each country.
 - [Corona in Charts](https://coronaincharts.com/) ([repo](https://github.com/blaz-blazer/coronaincharts)): Corona graphs for each country with total cases, active cases, recovered and fatalities. 
 - [COVID-19 Monitoring And Charting](https://covid.ngaah.id/)([repo](https://github.com/ximplah/covidjs)): World COVID-19 Tracking, historical data and overview using NodeJS Server  
+- [covid19-psvita-data](https://github.com/robDevs/covid19-psvita-data): An app for viewing COVID-19 Data and graphs on a Playstation Vita
 
 #### Analysis
 
