@@ -44,6 +44,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 Ruby Gem](https://github.com/everythings-cancelled/pomber_covid19)
 
 #### Visualizations
+
 - [COVID-19 World](https://andreasagap.github.io/Covid19-World/) ([repo](https://github.com/andreasagap/Covid19-World)): COVID-19 Global Report
 - [COVID-19 Comparator](https://covid-comparator.netlify.com/) ([repo](https://github.com/ElSamplio/coronavirus-comparator)): Coronavirus cases comparator by countries, from chosen date and number of days (PWA)
 - [Mobile Friendly COVID-19 Report](http://corona-status.live/) ([repo](https://github.com/ameerthehacker/corona-status)): Coronavirus daily report in a mobile friendly website (PWA)
@@ -72,14 +73,15 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 Panel for Digital Signage](https://covid19.dsplay.tv/?countries=Global%2CChina%2CItaly%2CUS%2CSpain&duration=5) ([repo](https://github.com/dsplay/covid19-ds-panel)): Digital Signage-ready and configurable Panel with COVID-19 data.
 - [COVID-19 Trends](https://bmaupin.github.io/covid19-trends/) ([repo](https://github.com/bmaupin/covid19-trends)): Simple charts showing COVID-19 trends
 - [Covid-19 Race](https://thijmen.xyz/coronarace/) ([repo](https://github.com/Wendelstein7/Covid19-Race)) A basic html5/css/js webapp to compare the cases from a select few countries.
-- [COVID-19 India dashboard](https://cov19in.herokuapp.com/)([repo](https://github.com/ankushop2/CoVID19DashBoard)) - A simple dashboard made with Flask specifically for India with stats of various states and predictions of what's going to happen in the next five days.
-- [Open COVID19 Map](https://covid19map.io)([repo](https://github.com/daniel-karl/covid19-map)) Open map visualization with alternative data sources, containment scores, testing rate projection, replay mode
+- [COVID-19 India dashboard](https://cov19in.herokuapp.com/) ([repo](https://github.com/ankushop2/CoVID19DashBoard)) - A simple dashboard made with Flask specifically for India with stats of various states and predictions of what's going to happen in the next five days.
+- [Open COVID19 Map](https://covid19map.io) ([repo](https://github.com/daniel-karl/covid19-map)) Open map visualization with alternative data sources, containment scores, testing rate projection, replay mode
+- [I am Covid -19 🦠](https://iamcovid-19.netlify.com/) ([repo](https://github.com/cryptodoct0r/Covid-19-Status-gql)) - Visualization of the covid-19 dataset using Nuxtjs(vuejs), Graphql and valuable information about getting through the Covid-19 pandemic.
+- [Simple COVID-19 Tracker](https://www.randallarms.com/covid-19) ([repo](https://github.com/randallarms/covid-19)): Mobile-friendly and minimal page that displays the current total count of coronavirus cases and deaths in a selected region.
+- [COVID-19 Report](https://covid19-report.netlify.com/) ([repo](https://github.com/viniciusrodrigues1a/covid19-report)): Coronavirus information by country in a mobile-friendly SPA.
+- [Visualizing COVID-19 with D3](https://covid.lonnygomes.com) ([repo](https://github.com/LonnyGomes/covid-sankey-vizualization)): A responsive D3-based data visualization that leverages a [Sankey diagram](https://en.wikipedia.org/wiki/Sankey_diagram) to display the breakdown of the worldwide COVID-19 cases.
+- [Coronavirus-meter](https://coronavirus-meter.com) ([repo](https://github.com/agaktr/coronavirus-meter)): Coronavirus meter provides statistics from cases all around the world. View cases from each country up to two months before. Coronavirus cases, deaths, recovered in statistical numbers from all around the world.
 - [Telegram COVID-19 Monitoring](https://github.com/f2acode/covid-19-telegram) Telegram alert everyday with the statistics of COVID-19 in each country.
-- [I am Covid -19 🦠](https://iamcovid-19.netlify.com/)([repo](https://github.com/cryptodoct0r/Covid-19-Status-gql)) - Visualization of the covid-19 dataset using Nuxtjs(vuejs), Graphql and valuable information about geeting through the Covid-19 pandemic.
-- [Simple COVID-19 Tracker](https://www.randallarms.com/covid-19)([repo](https://github.com/randallarms/covid-19)): Mobile-friendly and minimal page that displays the current total count of coronavirus cases and deaths in a selected region.
-- [COVID-19 Report](https://covid19-report.netlify.com/)([repo](https://github.com/viniciusrodrigues1a/covid19-report)): Coronavirus information by country in a mobile-friendly SPA.
-- [Visualizing COVID-19 with D3](https://covid.lonnygomes.com)([repo](https://github.com/LonnyGomes/covid-sankey-vizualization)): A responsive D3-based data visualization that leverages a [Sankey diagram](https://en.wikipedia.org/wiki/Sankey_diagram) to display the breakdown of the worldwide COVID-19 cases.
-- [Coronavirus-meter](https://coronavirus-meter.com)([repo](https://github.com/agaktr/coronavirus-meter)): Coronavirus meter provides statistics from cases all around the world. View cases from each country up to two months before. Coronavirus cases, deaths, recovered in statistical numbers from all around the world.
+- [Corona in Charts](https://coronaincharts.com/) ([repo](https://github.com/blaz-blazer/coronaincharts)): Corona graphs for each country with total cases, active cases, recovered and fatalities. 
 
 #### Analysis
 
