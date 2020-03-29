@@ -100,3 +100,4 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [epidemic-simulator](https://epidemic-simulator.now.sh) ([repo](https://github.com/RemiTheWarrior/epidemic-simulator)): Mathematical model using Macroscopic Rate Equations for simulating the future of the epidemic
 - [Coronavirus Cases, Deaths, and Recoveries by Country](https://nickmccullum.com/coronavirus-data-by-country/) ([repo](https://github.com/nicholasmccullum/website)) - a blog post with charts that update daily
 - [COVID-19 Best fit evolution](https://github.com/michetonu/covid19-best-fit-evolution) Visualizing the evolution of a best-fit logistic curve over time, showing the difficulty of predicting the number of future cases and deaths
+- [PowerBI-driven COVID-2019 Tracking](https://github.com/andriikopp/powerbi-covid-2019/tree/master): Power BI Desktop dashboard based on JSON data about COVID-2019 spread
