@@ -29,7 +29,7 @@ For example, if you want to use it from a web site:
 fetch("https://pomber.github.io/covid19/timeseries.json")
   .then(response => response.json())
   .then(data => {
-    data["Argentina"].forEach(({ date, confirmed, recovered, deaths }) =>https://github.com/Subhash3/COVID19_ANALYSIS
+    data["Argentina"].forEach(({ date, confirmed, recovered, deaths })
       console.log(`${date} active cases: ${confirmed - recovered - deaths}`)
     );
   });
