@@ -98,7 +98,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Corona-Virus-Numbers](https://github.com/robert-northmind/Corona-Virus-Numbers): Android and iOS app for visualising COVID-19 graphs developed using Flutter
 - [covid19liveupdates chatbot](https://github.com/danbilokha/covid19liveupdates): Telegragm chatbot & assistant for showing the current situation around the world
 - [covid-19-Bot](https://github.com/keyzt/COVID-19-Bot): Vkontakte chatbot for showing the current situation around the world.
-- [COVID-19 Ubilling stats module](https://ubilling.net.ua)([repo](https://github.com/nightflyza/Ubilling)): allows provider staff to monitor the pandemic's progress.
+- [COVID-19 Ubilling stats module](http://ubilling.net.ua)([repo](https://github.com/nightflyza/Ubilling)): allows provider staff to monitor the pandemic's progress.
 
 #### Analysis
 
