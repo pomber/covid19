@@ -29,7 +29,7 @@ For example, if you want to use it from a web site:
 fetch("https://pomber.github.io/covid19/timeseries.json")
   .then(response => response.json())
   .then(data => {
-    data["Argentina"].forEach(({ date, confirmed, recovered, deaths }) =>
+    data["Argentina"].forEach(({ date, confirmed, recovered, deaths }) =>https://github.com/Subhash3/COVID19_ANALYSIS
       console.log(`${date} active cases: ${confirmed - recovered - deaths}`)
     );
   });
@@ -38,13 +38,14 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 ### Projects using this dataset ([+ add yours](https://github.com/pomber/covid19/edit/master/readme.md))
 
 #### APIs
-
 - [COVID-19 Grafana API](https://covid19-grafana.herokuapp.com) ([repo](https://github.com/twei55/covid19-grafana-datasource)): JSON API to visualize stats in Grafana
 - [COVID-19 GraphQL API](https://covid19-graphql.now.sh/) ([repo](https://github.com/rlindskog/covid19-graphql))
 - [CovidAPI.info](https://covidapi.info) ([repo](https://github.com/backtrackbaba/covid-api)): Lightweight, Superfast REST API built to be consumed by dashboards.
 - [COVID-19 Ruby Gem](https://github.com/everythings-cancelled/pomber_covid19)
 
 #### Visualizations
+
+- [COVID19 Daily Report Visualizer]( https://covid19dailyreport.000webhostapp.com/)([repo](https://github.com/Subhash3/COVID19_ANALYSIS)) COVID19 Daily Report Visualizer
 
 - [Covid19 Visualizer](https://ray2294.github.io) ([repo](https://github.com/ray2294/ray2294.github.io)): Covid19 Graphical Visualizer
 - [EU stats report on COVID-19](https://covid19eu.jonur.io/) ([repo](https://github.com/Jonur/covid19-eu-report)): COVID-19 tracker for EU countries
