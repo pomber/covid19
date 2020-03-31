@@ -98,6 +98,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Corona-Virus-Numbers](https://github.com/robert-northmind/Corona-Virus-Numbers): Android and iOS app for visualising COVID-19 graphs developed using Flutter
 - [covid19liveupdates chatbot](https://github.com/danbilokha/covid19liveupdates): Telegragm chatbot & assistant for showing the current situation around the world
 - [covid-19-Bot](https://github.com/keyzt/COVID-19-Bot): Vkontakte chatbot for showing the current situation around the world.
+- [covid-19 charts](https://lucid-mccarthy-7c7e30.netlify.com/) ([repo](https://github.com/royriojas/corona/)): Yet another app with charts to compare the covid-19 outbreak per different countries. 
 
 #### Analysis
 
