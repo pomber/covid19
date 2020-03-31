@@ -47,6 +47,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 #### Visualizations
 
 
+- [COVID-19 Notifier](https://coronanotifier.com/) ([repo](https://github.com/ElBedeawi/covid19)): Covid-19 Daily Notifier
 - [COVID-19 Daily Report](https://covid19dailyreport.000webhostapp.com/) ([repo](https://github.com/Subhash3/COVID19_ANALYSIS)): Covid19 Daily Report Visualizer
 - [Covid19 Visualizer](https://ray2294.github.io) ([repo](https://github.com/ray2294/ray2294.github.io)): Covid19 Graphical Visualizer
 - [EU stats report on COVID-19](https://covid19eu.jonur.io/) ([repo](https://github.com/Jonur/covid19-eu-report)): COVID-19 tracker for EU countries
