@@ -98,6 +98,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Corona-Virus-Numbers](https://github.com/robert-northmind/Corona-Virus-Numbers): Android and iOS app for visualising COVID-19 graphs developed using Flutter
 - [covid19liveupdates chatbot](https://github.com/danbilokha/covid19liveupdates): Telegragm chatbot & assistant for showing the current situation around the world
 - [covid-19-Bot](https://github.com/keyzt/COVID-19-Bot): Vkontakte chatbot for showing the current situation around the world.
+- [EA-covid19-tracker](https://ea-covid19-tracker.herokuapp.com/) :keep tracking coronavirus cases around east africa community countries and discussing on platform.
 
 #### Analysis
 
