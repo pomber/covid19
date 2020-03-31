@@ -99,6 +99,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [covid19liveupdates chatbot](https://github.com/danbilokha/covid19liveupdates): Telegragm chatbot & assistant for showing the current situation around the world
 - [covid-19-Bot](https://github.com/keyzt/COVID-19-Bot): Vkontakte chatbot for showing the current situation around the world.
 - [covid-19 charts](https://lucid-mccarthy-7c7e30.netlify.com/) ([repo](https://github.com/royriojas/corona/)): Yet another app with charts to compare the covid-19 outbreak per different countries. 
+- [Coronavirus Map and Charts](https://coronavirus-map-with-circles.herokuapp.com/) ([repo](https://github.com/clavesi/coronavirus-map)): A simple Flask app that shows a map of all COVID-19 cases and charts for each individual country.
 
 #### Analysis
 
