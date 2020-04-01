@@ -99,6 +99,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [covid19liveupdates chatbot](https://github.com/danbilokha/covid19liveupdates): Telegragm chatbot & assistant for showing the current situation around the world
 - [covid-19-Bot](https://github.com/keyzt/COVID-19-Bot): Vkontakte chatbot for showing the current situation around the world.
 - [covid-19 charts](https://lucid-mccarthy-7c7e30.netlify.com/) ([repo](https://github.com/royriojas/corona/)): Yet another app with charts to compare the covid-19 outbreak per different countries. 
+- [ea-covid19-tracker](https://ea-covid19-tracker.herokuapp.com/) ([repo](https://github.com/mugabodeo/ea_covid_19_tracker)): keep tracking coronavirus cases around east africa community countries and discussing on platform .
 - [COVID-19 Spread In India Visualization](https://shivampip.github.io/corvis/) ([repo](https://github.com/shivampip/faCorana)): How this pandemic spread in India. Visualization on Map
 
 #### Analysis
