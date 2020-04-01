@@ -92,12 +92,12 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Corona in Charts](https://coronaincharts.com/) ([repo](https://github.com/blaz-blazer/coronaincharts)): Corona graphs for each country with total cases, active cases, recovered and fatalities.
 - [COVID-19 Monitoring And Charting](https://covid.ngaah.id/)([repo](https://github.com/ximplah/covidjs)): World COVID-19 Tracking, historical data and overview using NodeJS Server
 - [COVID-19 Reaction Tracker](https://zealous-dubinsky-aae850.netlify.com) ([repo](https://github.com/tpkahlon/javascript100/tree/master/29)): Track user reactions across the globe
-- [COVID-19 Data Visualization Using R Shiny](https://rahulch.shinyapps.io/covid)([repo](https://github.com/rahulchauhan049/covidDashboard)): Data Summary, Data Visualization, World Map and differnt Analytics plots. Made in r shiny
+- [COVID-19 Data Visualization Using R Shiny](https://rahulch.shinyapps.io/covid)([repo](https://github.com/rahulchauhan049/covidDashboard)): Data Summary, Data Visualization, World Map and different Analytics plots. Made in r shiny
 - [covid19-psvita-data](https://github.com/robDevs/covid19-psvita-data): An app for viewing COVID-19 Data and graphs on a Playstation Vita
 - [COVID-19 Timeline](https://gitlab.com/AuliaYF/covid-19-timeline): A Flutter app for tracking COVID-19 data
 - [COVID-19 in Numbers](https://covid-19.samorme.co.uk) ([repo](https://github.com/ormesam/covid-19)): Covid-19 stats and charts by country. Made with Blazor.
 - [Corona-Virus-Numbers](https://github.com/robert-northmind/Corona-Virus-Numbers): Android and iOS app for visualising COVID-19 graphs developed using Flutter
-- [covid19liveupdates chatbot](https://github.com/danbilokha/covid19liveupdates): Telegragm chatbot & assistant for showing the current situation around the world
+- [covid19liveupdates chatbot](https://github.com/danbilokha/covid19liveupdates): Telegram chatbot & assistant for showing the current situation around the world
 - [covid-19-Bot](https://github.com/keyzt/COVID-19-Bot): Vkontakte chatbot for showing the current situation around the world.
 - [covid-19 charts](https://lucid-mccarthy-7c7e30.netlify.com/) ([repo](https://github.com/royriojas/corona/)): Yet another app with charts to compare the covid-19 outbreak per different countries. 
 - [Coronavirus Map and Charts](https://coronavirus-map-with-circles.herokuapp.com/) ([repo](https://github.com/clavesi/coronavirus-map)): A simple Flask app that shows a map of all COVID-19 cases and charts for each individual country.
