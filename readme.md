@@ -103,6 +103,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Coronavirus Map and Charts](https://coronavirus-map-with-circles.herokuapp.com/) ([repo](https://github.com/clavesi/coronavirus-map)): A simple Flask app that shows a map of all COVID-19 cases and charts for each individual country.
 - [ea-covid19-tracker](https://ea-covid19-tracker.herokuapp.com/) ([repo](https://github.com/mugabodeo/ea_covid_19_tracker)): keep tracking coronavirus cases around east africa community countries and discussing on platform .
 - [COVID-19 Spread In India Visualization](https://shivampip.github.io/corvis/) ([repo](https://github.com/shivampip/faCorana)): How this pandemic spread in India. Visualization on Map
+- [LWC Component COVID19 ](https://github.com/arufian/LWC-Component-COVID19): A LWC component that can be embedded into Account and Contact record page, which will show all COVID-19 statistics data based of Account's and Contact's respective country.
 
 #### Analysis
 
