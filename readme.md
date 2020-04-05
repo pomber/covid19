@@ -105,6 +105,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 Spread In India Visualization](https://shivampip.github.io/corvis/) ([repo](https://github.com/shivampip/faCorana)): How this pandemic spread in India. Visualization on Map
 - [LWC Component COVID19 ](https://github.com/arufian/LWC-Component-COVID19): A LWC component that can be embedded into Account and Contact record page, which will show all COVID-19 statistics data based of Account's and Contact's respective country.
 - [Corona Counter](https://edwardleks.github.io/corona_counter/) ([repo](https://github.com/EdwardLeks/corona_counter)): Simple Corona virus counter 🦠
+- [Coronavirus WORLD STATISTICS](http://verultimasnoticias.com/covid19/): COVID-19 Stats and Charts
 - [Cobot-19](https://discordapp.com/oauth2/authorize?&client_id=690568808154398772&scope=bot&permissions=51200) ([repo](https://github.com/Jackojc/cobot-19)): A Discord bot that graphs Covid-19 statistics.
 
 #### Analysis
