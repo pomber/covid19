@@ -106,6 +106,8 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [LWC Component COVID19 ](https://github.com/arufian/LWC-Component-COVID19): A LWC component that can be embedded into Account and Contact record page, which will show all COVID-19 statistics data based of Account's and Contact's respective country.
 - [Corona Counter](https://edwardleks.github.io/corona_counter/) ([repo](https://github.com/EdwardLeks/corona_counter)): Simple Corona virus counter 🦠
 
+- [Graphical Representation of COVID-19 Sri Lanka](https://covidlk.now.sh/) ([repo](https://github.com/RizkyRajitha/covidgraph)): Graphical Representation of COVID-19 report in Sri Lanka based on HEALTH PROMOTION BUREAU Sri Lanka 📊
+
 #### Analysis
 
 - [COVID-19 Trends and Growth Rate](https://github.com/dariocazzani/COVID-19-trends): A Python implementation of growth rate and other trend analysis
