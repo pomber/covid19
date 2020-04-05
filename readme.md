@@ -107,8 +107,6 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Corona Counter](https://edwardleks.github.io/corona_counter/) ([repo](https://github.com/EdwardLeks/corona_counter)): Simple Corona virus counter 🦠
 - [Cobot-19](https://discordapp.com/oauth2/authorize?&client_id=690568808154398772&scope=bot&permissions=51200) ([repo](https://github.com/Jackojc/cobot-19)): A Discord bot that graphs Covid-19 statistics.
 
-- [Graphical Representation of COVID-19 Sri Lanka](https://covidlk.now.sh/) ([repo](https://github.com/RizkyRajitha/covidgraph)): Graphical Representation of COVID-19 report in Sri Lanka based on HEALTH PROMOTION BUREAU Sri Lanka 📊
-
 #### Analysis
 
 - [COVID-19 Trends and Growth Rate](https://github.com/dariocazzani/COVID-19-trends): A Python implementation of growth rate and other trend analysis
