@@ -111,7 +111,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Cobot-19](https://discordapp.com/oauth2/authorize?&client_id=690568808154398772&scope=bot&permissions=51200) ([repo](https://github.com/Jackojc/cobot-19)): A Discord bot that graphs Covid-19 statistics.
 - [COVIDmap - Global Map Visualization 🗺](https://covidmap.now.sh/) ([repo](https://github.com/mayankverr/COVIDmap)): Map visualization of all the areas affected by coronavirus disease aka COVID-19
 - [Covid19 Racing Chart](https://covid19.lkameya.com/) ([repo](https://github.com/lkameya/covid19)): Racing Chart of the cases/deaths evolution through time.
-
+- [Covid19 Countries comparision spike charts with filter](http://himanshukotnala.com/covid19-tracker-countries-daily-spikes): Select multiple countries to compare them with the option to filter dates.
 #### Analysis
 
 - [COVID-19 Trends and Growth Rate](https://github.com/dariocazzani/COVID-19-trends): A Python implementation of growth rate and other trend analysis
