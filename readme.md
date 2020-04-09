@@ -46,7 +46,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 
 #### Visualizations
 
-
+- [CoronaCurve](https://coronacurve.info): Graph analysis of per country information on COVID-19 with overall and per country data/news.
 - [COVID-19 Flight Info](https://www.covid19globalinfo.com/) ([repo](https://github.com/maschad/covid19-banned-flights)): Flight and Travel info as well as other stats related to the outbreak.
 - [The Curve](https://thecurve.infinitesimals.space/) ([repo](https://github.com/eminx/thecurve)): The Curve
 - [COVID-19 Notifier](https://coronanotifier.com/) ([repo](https://github.com/ElBedeawi/covid19)): Covid-19 Daily Notifier
