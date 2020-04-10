@@ -115,6 +115,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Covid19 Visuals](https://covid19visuals.com/) ([repo](https://github.com/priyanshrastogi/covid19visuals)): Global Covid19 Statistics, Visualizations (Maps, Charts, Tables) and Facts.
 - [corona-tracker](https://arosisi.github.io/corona-tracker) ([repo](https://github.com/arosisi/corona-tracker)): 3D & 2D visualization of the number of cases worldwide
 - [COVID-19 By Country](https://cityxdev.github.io/covid19ByCountry) ([repo](https://github.com/cityxdev/covid19ByCountry)): Comparison of the COVID-19 pandemic by country, weighted by population. Data series aligned by the day that the country reached the 100th case
+- [Build a Coronavirus web site with Next.js](https://pomb.us/nextjs-static-props/) ([repo](https://github.com/pomber/nextjs-static-props)) - How to use Next.js to build a static Coronavirus web site
 
 #### Analysis
 
