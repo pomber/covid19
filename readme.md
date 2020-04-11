@@ -26,10 +26,10 @@ The json contains the number of Coronavirus confirmed cases, deaths, and recover
 For example, if you want to use it from a web site:
 
 ```js
-fetch("https://pomber.github.io/covid19/timeseries.json")
-  .then(response => response.json())
-  .then(data => {
-    data["Argentina"].forEach(({ date, confirmed, recovered, deaths }) =>
+fetch('https://pomber.github.io/covid19/timeseries.json')
+  .then((response) => response.json())
+  .then((data) => {
+    data['Argentina'].forEach(({ date, confirmed, recovered, deaths }) =>
       console.log(`${date} active cases: ${confirmed - recovered - deaths}`)
     );
   });
@@ -47,9 +47,9 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 #### Visualizations
 
 - [COVID-19 Global Report](https://app.powerbi.com/view?r=eyJrIjoiNTFmNzExYzktN2QyNi00ZGNhLTg1MjQtYTUyOWIyMGYzOGI2IiwidCI6IjE1M2U3N2E0LWMyOWQtNGYyZS04ODU3LWU0MDU5M2YxNjkzMCJ9) ([repo](https://github.com/vinecz-data/coronavirus)): COVID-19 Global Report focus in Brazil and World. Made with Snowflake, Pentaho and Power BI.
-- [Corona Status Brazil - Mobile Friendly](https://ericcoutinho.github.io/corona-status-brasil) ([repo](https://github.com/ericcoutinho/corona-status-brasil)): Covid-19 daily report Brazil in a mobile friendly website. 
+- [Corona Status Brazil - Mobile Friendly](https://ericcoutinho.github.io/corona-status-brasil) ([repo](https://github.com/ericcoutinho/corona-status-brasil)): Covid-19 daily report Brazil in a mobile friendly website.
 - [COVID-19 Flight Info](https://www.covid19globalinfo.com/) ([repo](https://github.com/maschad/covid19-banned-flights)): Flight and Travel info as well as other stats related to the outbreak.
-- [The Curve](https://thecurve.infinitesimals.space/) ([repo](https://github.com/eminx/thecurve)): The Curve
+- [The Curve](https://thecurve.world/) ([repo](https://github.com/eminx/thecurve)): The Curve
 - [COVID-19 Notifier](https://coronanotifier.com/) ([repo](https://github.com/ElBedeawi/covid19)): Covid-19 Daily Notifier
 - [COVID-19 Daily Report](https://covid19dailyreport.000webhostapp.com/) ([repo](https://github.com/Subhash3/COVID19_ANALYSIS)): Covid19 Daily Report Visualizer
 - [Covid19 Visualizer](https://ray2294.github.io) ([repo](https://github.com/ray2294/ray2294.github.io)): Covid19 Graphical Visualizer
