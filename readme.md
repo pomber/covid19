@@ -116,7 +116,8 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [corona-tracker](https://arosisi.github.io/corona-tracker) ([repo](https://github.com/arosisi/corona-tracker)): 3D & 2D visualization of the number of cases worldwide
 - [COVID-19 By Country](https://cityxdev.github.io/covid19ByCountry) ([repo](https://github.com/cityxdev/covid19ByCountry)): Comparison of the COVID-19 pandemic by country, weighted by population. Data series aligned by the day that the country reached the 100th case
 - [Build a Coronavirus web site with Next.js](https://pomb.us/nextjs-static-props/) ([repo](https://github.com/pomber/nextjs-static-props)) - How to use Next.js to build a static Coronavirus web site
-- [A small COVID-19 dashboard built with Plotly Dash](https://covid-monitor.herokuapp.com/) and here is the [repo](https://github.com/ivan-rivera/covid19)
+- [A small COVID-19 dashboard built with Plotly Dash](https://covid-monitor.herokuapp.com/) ([repo](https://github.com/ivan-rivera/covid19))
+- [Covid-19 Chart](https://ngmikeng.github.io/angular-chart-covid19/) ([repo](https://github.com/ngmikeng/angular-chart-covid19)): A simple SPA web app build with Angular and Highcharts.
 
 #### Analysis
 
