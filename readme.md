@@ -128,6 +128,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Coronavirus Cases, Deaths, and Recoveries by Country](https://nickmccullum.com/coronavirus-data-by-country/) ([repo](https://github.com/nicholasmccullum/website)) - a blog post with charts that update daily
 - [COVID-19 Best fit evolution](https://github.com/michetonu/covid19-best-fit-evolution) Visualizing the evolution of a best-fit logistic curve over time, showing the difficulty of predicting the number of future cases and deaths
 - [PowerBI-driven COVID-2019 Tracking](https://github.com/andriikopp/powerbi-covid-2019/tree/master): Power BI Desktop dashboard based on JSON data about COVID-2019 spread
+- [COVID-19 Linear Regression Model](https://blazpocrnja.github.io/covid-19/) ([repo](https://github.com/BlazPocrnja/covid-19)): React web application using linear regression to plot trendlines for daily case growth.
 
 ## License
 
