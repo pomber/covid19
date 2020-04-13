@@ -35,7 +35,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
   });
 ```
 
-### Projects using this dataset ([+ add yours](https://github.com/pomber/covid19/edit/master/readme.md))
+### Projects using this dataset ([+ add yours](#user-content-adding-your-project-to-the-list))
 
 #### APIs
 
@@ -131,6 +131,17 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 Best fit evolution](https://github.com/michetonu/covid19-best-fit-evolution) Visualizing the evolution of a best-fit logistic curve over time, showing the difficulty of predicting the number of future cases and deaths
 - [PowerBI-driven COVID-2019 Tracking](https://github.com/andriikopp/powerbi-covid-2019/tree/master): Power BI Desktop dashboard based on JSON data about COVID-2019 spread
 - [COVID-19 Linear Regression Model](https://blazpocrnja.github.io/covid-19/) ([repo](https://github.com/BlazPocrnja/covid-19)): React web application using linear regression to plot trendlines for daily case growth.
+
+### Adding your project to the list
+
+Pull requests adding more projects to this list are welcome, just a few rules:
+- Add only open source projects
+- Make sure the project cite this repo as a data source (with a link) 
+- Follow the same order as the rest of the list `- [project-name](your-project-url) ([repo](repo-url)): description`
+- Try not to add extra blank lines, it breaks the formatting
+
+
+👉 [add a new project to the list](https://github.com/pomber/covid19/edit/master/readme.md)
 
 ## License
 
