@@ -120,6 +120,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Covids' World](https://yakko-w.glitch.me/)([repo](https://github.com/blubbll/yakko-w): A version of Yakkos World. But with covid livedata. Yeah ._.
 - [A small COVID-19 dashboard built with Plotly Dash](https://covid-monitor.herokuapp.com/) ([repo](https://github.com/ivan-rivera/covid19))
 - [Covid-19 Chart](https://ngmikeng.github.io/angular-chart-covid19/) ([repo](https://github.com/ngmikeng/angular-chart-covid19)): A simple SPA web app build with Angular and Highcharts.
+- [covid-vue-chart](https://syui.github.io/covid-vue-chart)([repo](https://github.com/syui/covid-vue-chart)): A simple web site build with Vue and Axios, Apexcharts.
 
 #### Analysis
 
