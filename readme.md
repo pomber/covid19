@@ -46,7 +46,9 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 
 #### Visualizations
 
-- [COVID-19 World at a Glance!](https://covid-19-world.netlify.com/): Dashboard with COVID-19 Visualization of my Country(India), World Spread Comparator and Country level details across the world.
+- [COVID-19 World at a Glance!](https://covid-19-world.netlify.com/) ([repo](https://github.com/atapas/covid-19): Dashboard with COVID-19 Visualization of my Country(India), World Spread Comparator and Country level details across the world.
+- [COVID-19 Global Report](https://app.powerbi.com/view?r=eyJrIjoiNTFmNzExYzktN2QyNi00ZGNhLTg1MjQtYTUyOWIyMGYzOGI2IiwidCI6IjE1M2U3N2E0LWMyOWQtNGYyZS04ODU3LWU0MDU5M2YxNjkzMCJ9) ([repo](https://github.com/vinecz-data/coronavirus)): COVID-19 Global Report focus in Brazil and World. Made with Snowflake, Pentaho and Power BI.
+- [Corona Status Brazil - Mobile Friendly](https://ericcoutinho.github.io/corona-status-brasil) ([repo](https://github.com/ericcoutinho/corona-status-brasil)): Covid-19 daily report Brazil in a mobile friendly website. 
 - [COVID-19 Flight Info](https://www.covid19globalinfo.com/) ([repo](https://github.com/maschad/covid19-banned-flights)): Flight and Travel info as well as other stats related to the outbreak.
 - [The Curve](https://thecurve.infinitesimals.space/) ([repo](https://github.com/eminx/thecurve)): The Curve
 - [COVID-19 Notifier](https://coronanotifier.com/) ([repo](https://github.com/ElBedeawi/covid19)): Covid-19 Daily Notifier
@@ -113,6 +115,11 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Covid19 Racing Chart](https://covid19.lkameya.com/) ([repo](https://github.com/lkameya/covid19)): Racing Chart of the cases/deaths evolution through time.
 - [Covid19 Visuals](https://covid19visuals.com/) ([repo](https://github.com/priyanshrastogi/covid19visuals)): Global Covid19 Statistics, Visualizations (Maps, Charts, Tables) and Facts.
 - [corona-tracker](https://arosisi.github.io/corona-tracker) ([repo](https://github.com/arosisi/corona-tracker)): 3D & 2D visualization of the number of cases worldwide
+- [COVID-19 By Country](https://cityxdev.github.io/covid19ByCountry) ([repo](https://github.com/cityxdev/covid19ByCountry)): Comparison of the COVID-19 pandemic by country, weighted by population. Data series aligned by the day that the country reached the 100th case
+- [Build a Coronavirus web site with Next.js](https://pomb.us/nextjs-static-props/) ([repo](https://github.com/pomber/nextjs-static-props)) - How to use Next.js to build a static Coronavirus web site
+- [Covids' World](https://yakko-w.glitch.me/)([repo](https://github.com/blubbll/yakko-w): A version of Yakkos World. But with covid livedata. Yeah ._.
+- [A small COVID-19 dashboard built with Plotly Dash](https://covid-monitor.herokuapp.com/) ([repo](https://github.com/ivan-rivera/covid19))
+- [Covid-19 Chart](https://ngmikeng.github.io/angular-chart-covid19/) ([repo](https://github.com/ngmikeng/angular-chart-covid19)): A simple SPA web app build with Angular and Highcharts.
 
 #### Analysis
 
