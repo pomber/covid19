@@ -15,7 +15,7 @@ function extract(filepath) {
   // HACK: CSVs have different date formats
   const normalDates = dates.map(date => {
     const [month, day] = date.split("/");
-    return `2020-${month}-${day}`;
+    return '2020-'+month.padStart(2, '0')+'-'+day.padStart(2, '0');
   });
 
   rows.forEach(([province, country, lat, long, ...counts]) => {
