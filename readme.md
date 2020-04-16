@@ -45,7 +45,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 Ruby Gem](https://github.com/everythings-cancelled/pomber_covid19)
 
 #### Visualizations
-
+- [COVID-19-INDIA-WORLD](https://covid19.saurav.tech/) ([repo](https://github.com/SauravKanchan/corona)): COVID-19 Tracker build with [svelte](https://svelte.dev/)
 - [YACA](https://aequologica.net/covid/) ([repo](https://github.com/aequologica/aequologica.github.io/tree/master/covid)): Yet Another Covid-19 App. Graph of daily deaths. Tweakable options are: 1. select multiple countries, 2. size of rolling average, 3. absolute vs per capita, and 4. logaritmic vs linear Y axis.
 - [COVID-19 World at a Glance!](https://covid-19-world.netlify.com/) ([repo](https://github.com/atapas/covid-19)): Dashboard with COVID-19 Visualization of my Country(India), World Spread Comparator and Country level details across the world.
 - [COVID-19 Global Report](https://app.powerbi.com/view?r=eyJrIjoiNTFmNzExYzktN2QyNi00ZGNhLTg1MjQtYTUyOWIyMGYzOGI2IiwidCI6IjE1M2U3N2E0LWMyOWQtNGYyZS04ODU3LWU0MDU5M2YxNjkzMCJ9) ([repo](https://github.com/vinecz-data/coronavirus)): COVID-19 Global Report focus in Brazil and World. Made with Snowflake, Pentaho and Power BI.
