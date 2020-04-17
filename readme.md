@@ -125,6 +125,8 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Covid-19 Chart](https://ngmikeng.github.io/angular-chart-covid19/) ([repo](https://github.com/ngmikeng/angular-chart-covid19)): A simple SPA web app build with Angular and Highcharts.
 - [covid-vue-chart](https://syui.github.io/covid-vue-chart)([repo](https://github.com/syui/covid-vue-chart)): A simple web site build with Vue and Axios, Apexcharts.
 - [COVID-19 Live Tracker](https://covidlivetrack.herokuapp.com/) ([repo](https://github.com/derekmkwok/covid-live)): A web app featuring statistics and visualizations of COVID-19 data by country.
+- [Coronavirus-epidemic](https://alexanderritik.github.io/Coronavirus-Epidemic/)([repo](https://github.com/alexanderritik/Coronavirus-Epidemic) ):Its is web app with globe view to give all current situation with charts and animation effects.
+
 
 #### Analysis
 
