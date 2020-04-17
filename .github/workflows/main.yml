@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: "15 0,2,12 * * *"
+    - cron: "1,15 0,2,12,18 * * *"
 
 jobs:
   extract_job:
