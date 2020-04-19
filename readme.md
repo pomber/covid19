@@ -38,7 +38,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 ### Projects using this dataset ([+ add yours](#user-content-adding-your-project-to-the-list))
 
 #### APIs
-
+- [CoronaStats](https://hungry-ptolemy-f3118f.netlify.app/home) [repo](https://github.com/trujilloRJ/coronaStats) to visualize time series per country
 - [COVID-19 Grafana API](https://covid19-grafana.herokuapp.com) ([repo](https://github.com/twei55/covid19-grafana-datasource)): JSON API to visualize stats in Grafana
 - [COVID-19 GraphQL API](https://covid19-graphql.now.sh/) ([repo](https://github.com/rlindskog/covid19-graphql))
 - [CovidAPI.info](https://covidapi.info) ([repo](https://github.com/backtrackbaba/covid-api)): Lightweight, Superfast REST API built to be consumed by dashboards.
