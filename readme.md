@@ -45,6 +45,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 Ruby Gem](https://github.com/everythings-cancelled/pomber_covid19)
 
 #### Visualizations
+- [COVID-19 Datawrapper Widget With Auto Refresh](https://medium.com/@simondhaas/import-json-data-google-sheets-auto-refresh-covid-19-widget-6cf34946e869): How to Import JSON Data From This API Into Google Sheets — and Create a COVID-19 Widget With Datawrapper in Less Than 5 Minutes
 - [COVID-19-INDIA-WORLD](https://covid19.saurav.tech/) ([repo](https://github.com/SauravKanchan/corona)): COVID-19 Tracker build with [svelte](https://svelte.dev/)
 - [Plotting COVID-19](https://rsheptolut.github.io/plot-covid) ([repo](https://github.com/rsheptolut/plot-covid)): Configurable and shareable COVID-19 country comparison charts.
 - [YACA](https://aequologica.net/covid/) ([repo](https://github.com/aequologica/aequologica.github.io/tree/master/covid)): Yet Another Covid-19 App. Graph of daily deaths. Tweakable options are: 1. select multiple countries, 2. size of rolling average, 3. absolute vs per capita, and 4. logaritmic vs linear Y axis.
