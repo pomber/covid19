@@ -131,7 +131,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [covid-vue-chart](https://syui.github.io/covid-vue-chart)([repo](https://github.com/syui/covid-vue-chart)): A simple web site build with Vue and Axios, Apexcharts.
 - [COVID-19 Live Tracker](https://covidlivetrack.herokuapp.com/) ([repo](https://github.com/derekmkwok/covid-live)): A web app featuring statistics and visualizations of COVID-19 data by country.
 - [MEXICOVID-19 Active Cases Tracker](https://mexicovid-19.herokuapp.com/) ([repo](https://github.com/jabonsolo/covid-19_mexico)): A web app tracking Mexican cases and its comparison agains other countries.
-
+- [COVID-19 Simple Dashboard](https://jvas28.github.io/covid19-dashboard/) ([repo](https://github.com/jvas28/covid19-dashboard): Simple COVID-19 dashboard made with React and Tailwindcss)
 #### Analysis
 
 - [COVID-19 Trends and Growth Rate](https://github.com/dariocazzani/COVID-19-trends): A Python implementation of growth rate and other trend analysis
