@@ -45,6 +45,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 Ruby Gem](https://github.com/everythings-cancelled/pomber_covid19)
 
 #### Visualizations
+- [Coronavirus-plotter](https://alexanderritik.github.io/Coronavirus-Epidemic/)([repo](https://github.com/alexanderritik/Coronavirus-Epidemic)) :Its is web app with globe view to give all current situation with charts and animation effects.
 - [COVID-19-INDIA-WORLD](https://covid19.saurav.tech/) ([repo](https://github.com/SauravKanchan/corona)): COVID-19 Tracker build with [svelte](https://svelte.dev/)
 - [Plotting COVID-19](https://rsheptolut.github.io/plot-covid) ([repo](https://github.com/rsheptolut/plot-covid)): Configurable and shareable COVID-19 country comparison charts.
 - [YACA](https://aequologica.net/covid/) ([repo](https://github.com/aequologica/aequologica.github.io/tree/master/covid)): Yet Another Covid-19 App. Graph of daily deaths. Tweakable options are: 1. select multiple countries, 2. size of rolling average, 3. absolute vs per capita, and 4. logaritmic vs linear Y axis.
@@ -125,7 +126,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Covid-19 Chart](https://ngmikeng.github.io/angular-chart-covid19/) ([repo](https://github.com/ngmikeng/angular-chart-covid19)): A simple SPA web app build with Angular and Highcharts.
 - [covid-vue-chart](https://syui.github.io/covid-vue-chart)([repo](https://github.com/syui/covid-vue-chart)): A simple web site build with Vue and Axios, Apexcharts.
 - [COVID-19 Live Tracker](https://covidlivetrack.herokuapp.com/) ([repo](https://github.com/derekmkwok/covid-live)): A web app featuring statistics and visualizations of COVID-19 data by country.
-- [Coronavirus-epidemic](https://alexanderritik.github.io/Coronavirus-Epidemic/)([repo](https://github.com/alexanderritik/Coronavirus-Epidemic) ):Its is web app with globe view to give all current situation with charts and animation effects.
+
 
 
 #### Analysis
