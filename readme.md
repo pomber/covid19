@@ -49,8 +49,9 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 Datawrapper Widget With Auto Refresh](https://medium.com/@simondhaas/import-json-data-google-sheets-auto-refresh-covid-19-widget-6cf34946e869): How to Import JSON Data From This API Into Google Sheets — and Create a COVID-19 Widget With Datawrapper in Less Than 5 Minutes
 
 #### Visualizations
-- [CoronaStats](https://hungry-ptolemy-f3118f.netlify.app/home) [repo](https://github.com/trujilloRJ/coronaStats) to visualize time series per country
+- [CoronaStats](https://hungry-ptolemy-f3118f.netlify.app/home) ([repo](https://github.com/trujilloRJ/coronaStats)): visualize time series per country
 - [Coronow](https://etcho.github.io/coronow) ([repo](https://github.com/etcho/coronow)): Dashboard about COVID-19 with counters and charts
+- [Coronavirus-plotter](https://alexanderritik.github.io/Coronavirus-Epidemic/) ([repo](https://github.com/alexanderritik/Coronavirus-Epidemic)) :Its is web app with globe view to give all current situation with charts and animation effects.
 - [COVID-19-INDIA-WORLD](https://covid19.saurav.tech/) ([repo](https://github.com/SauravKanchan/corona)): COVID-19 Tracker build with [svelte](https://svelte.dev/)
 - [Plotting COVID-19](https://rsheptolut.github.io/plot-covid) ([repo](https://github.com/rsheptolut/plot-covid)): Configurable and shareable COVID-19 country comparison charts.
 - [YACA](https://aequologica.net/covid/) ([repo](https://github.com/aequologica/aequologica.github.io/tree/master/covid)): Yet Another Covid-19 App. Graph of daily deaths. Tweakable options are: 1. select multiple countries, 2. size of rolling average, 3. absolute vs per capita, and 4. logaritmic vs linear Y axis.
@@ -132,6 +133,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 Live Tracker](https://covidlivetrack.herokuapp.com/) ([repo](https://github.com/derekmkwok/covid-live)): A web app featuring statistics and visualizations of COVID-19 data by country.
 - [MEXICOVID-19 Active Cases Tracker](https://mexicovid-19.herokuapp.com/) ([repo](https://github.com/jabonsolo/covid-19_mexico)): A web app tracking Mexican cases and its comparison agains other countries.
 - [COVID-19 Simple Dashboard](https://jvas28.github.io/covid19-dashboard/) ([repo](https://github.com/jvas28/covid19-dashboard): Simple COVID-19 dashboard made with React and Tailwindcss)
+
 #### Analysis
 
 - [COVID-19 Trends and Growth Rate](https://github.com/dariocazzani/COVID-19-trends): A Python implementation of growth rate and other trend analysis
