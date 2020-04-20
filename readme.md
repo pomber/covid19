@@ -44,6 +44,10 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [CovidAPI.info](https://covidapi.info) ([repo](https://github.com/backtrackbaba/covid-api)): Lightweight, Superfast REST API built to be consumed by dashboards.
 - [COVID-19 Ruby Gem](https://github.com/everythings-cancelled/pomber_covid19)
 
+#### Tutorials
+- [Build a Coronavirus web site with Next.js](https://pomb.us/nextjs-static-props/) ([repo](https://github.com/pomber/nextjs-static-props)) - How to use Next.js to build a static Coronavirus web site
+- [COVID-19 Datawrapper Widget With Auto Refresh](https://medium.com/@simondhaas/import-json-data-google-sheets-auto-refresh-covid-19-widget-6cf34946e869): How to Import JSON Data From This API Into Google Sheets — and Create a COVID-19 Widget With Datawrapper in Less Than 5 Minutes
+
 #### Visualizations
 - [CoronaStats](https://hungry-ptolemy-f3118f.netlify.app/home) [repo](https://github.com/trujilloRJ/coronaStats) to visualize time series per country
 - [Coronow](https://etcho.github.io/coronow) ([repo](https://github.com/etcho/coronow)): Dashboard about COVID-19 with counters and charts
@@ -120,7 +124,6 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Covid19 Visuals](https://covid19visuals.com/) ([repo](https://github.com/priyanshrastogi/covid19visuals)): Global Covid19 Statistics, Visualizations (Maps, Charts, Tables) and Facts.
 - [corona-tracker](https://arosisi.github.io/corona-tracker) ([repo](https://github.com/arosisi/corona-tracker)): 3D & 2D visualization of the number of cases worldwide
 - [COVID-19 By Country](https://cityxdev.github.io/covid19ByCountry) ([repo](https://github.com/cityxdev/covid19ByCountry)): Comparison of the COVID-19 pandemic by country, weighted by population. Data series aligned by the day that the country reached the 100th case
-- [Build a Coronavirus web site with Next.js](https://pomb.us/nextjs-static-props/) ([repo](https://github.com/pomber/nextjs-static-props)) - How to use Next.js to build a static Coronavirus web site
 - [COVID-19 Tracker](https://aeol-covid.herokuapp.com) ([repo](https://github.com/ae0l/aeol-covid)): Porgressive web application for tracking countries affected by the COVID-19 pandemic.
 - [Covids' World](https://yakko-w.glitch.me/)([repo](https://github.com/blubbll/yakko-w): A version of Yakkos World. But with covid livedata. Yeah ._.
 - [A small COVID-19 dashboard built with Plotly Dash](https://covid-monitor.herokuapp.com/) ([repo](https://github.com/ivan-rivera/covid19))
