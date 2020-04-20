@@ -141,7 +141,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 Best fit evolution](https://github.com/michetonu/covid19-best-fit-evolution) Visualizing the evolution of a best-fit logistic curve over time, showing the difficulty of predicting the number of future cases and deaths
 - [PowerBI-driven COVID-2019 Tracking](https://github.com/andriikopp/powerbi-covid-2019/tree/master): Power BI Desktop dashboard based on JSON data about COVID-2019 spread
 - [COVID-19 Linear Regression Model](https://blazpocrnja.github.io/covid-19/) ([repo](https://github.com/BlazPocrnja/covid-19)): React web application using linear regression to plot trendlines for daily case growth.
-
+- [COVID-19 Simple Dashboard](https://jvas28.github.io/covid19-dashboard/)
 ### Adding your project to the list
 
 Pull requests adding more projects to this list are welcome, just a few rules:
