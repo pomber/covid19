@@ -45,6 +45,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 Ruby Gem](https://github.com/everythings-cancelled/pomber_covid19)
 
 #### Visualizations
+- [CoronaStats](https://hungry-ptolemy-f3118f.netlify.app/home) [repo](https://github.com/trujilloRJ/coronaStats) to visualize time series per country
 - [Coronow](https://etcho.github.io/coronow) ([repo](https://github.com/etcho/coronow)): Dashboard about COVID-19 with counters and charts
 - [COVID-19-INDIA-WORLD](https://covid19.saurav.tech/) ([repo](https://github.com/SauravKanchan/corona)): COVID-19 Tracker build with [svelte](https://svelte.dev/)
 - [Plotting COVID-19](https://rsheptolut.github.io/plot-covid) ([repo](https://github.com/rsheptolut/plot-covid)): Configurable and shareable COVID-19 country comparison charts.
