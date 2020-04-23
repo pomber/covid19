@@ -134,6 +134,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [MEXICOVID-19 Active Cases Tracker](https://mexicovid-19.herokuapp.com/) ([repo](https://github.com/jabonsolo/covid-19_mexico)): A web app tracking Mexican cases and its comparison agains other countries.
 - [COVID-19 Simple Dashboard](https://jvas28.github.io/covid19-dashboard/) ([repo](https://github.com/jvas28/covid19-dashboard)): Simple COVID-19 dashboard made with React and Tailwindcss
 - [COVID-19 data](https://covid-19data.herokuapp.com/)([repo](https://github.com/kaline/COVID19Data)): Basic website to view COVID-19 evolution daily around the world.
+- [Linked COVID-19 Data](http://covid19data.link/)([repo](https://github.com/Research-Squirrel-Engineers/COVID-19)): Website to visualise COVID-19 from RDF.
 
 #### Analysis
 
