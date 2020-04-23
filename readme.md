@@ -126,15 +126,16 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [corona-tracker](https://arosisi.github.io/corona-tracker) ([repo](https://github.com/arosisi/corona-tracker)): 3D & 2D visualization of the number of cases worldwide
 - [COVID-19 By Country](https://cityxdev.github.io/covid19ByCountry) ([repo](https://github.com/cityxdev/covid19ByCountry)): Comparison of the COVID-19 pandemic by country, weighted by population. Data series aligned by the day that the country reached the 100th case
 - [COVID-19 Tracker](https://aeol-covid.herokuapp.com) ([repo](https://github.com/ae0l/aeol-covid)): Porgressive web application for tracking countries affected by the COVID-19 pandemic.
-- [Covids' World](https://yakko-w.glitch.me/)([repo](https://github.com/blubbll/yakko-w): A version of Yakkos World. But with covid livedata. Yeah ._.
+- [Covids' World](https://yakko-w.glitch.me/) ([repo](https://github.com/blubbll/yakko-w): A version of Yakkos World. But with covid livedata. Yeah ._.
 - [A small COVID-19 dashboard built with Plotly Dash](https://covid-monitor.herokuapp.com/) ([repo](https://github.com/ivan-rivera/covid19))
 - [Covid-19 Chart](https://ngmikeng.github.io/angular-chart-covid19/) ([repo](https://github.com/ngmikeng/angular-chart-covid19)): A simple SPA web app build with Angular and Highcharts.
-- [covid-vue-chart](https://syui.github.io/covid-vue-chart)([repo](https://github.com/syui/covid-vue-chart)): A simple web site build with Vue and Axios, Apexcharts.
+- [covid-vue-chart](https://syui.github.io/covid-vue-chart) ([repo](https://github.com/syui/covid-vue-chart)): A simple web site build with Vue and Axios, Apexcharts.
 - [COVID-19 Live Tracker](https://covidlivetrack.herokuapp.com/) ([repo](https://github.com/derekmkwok/covid-live)): A web app featuring statistics and visualizations of COVID-19 data by country.
 - [MEXICOVID-19 Active Cases Tracker](https://mexicovid-19.herokuapp.com/) ([repo](https://github.com/jabonsolo/covid-19_mexico)): A web app tracking Mexican cases and its comparison agains other countries.
 - [COVID-19 Simple Dashboard](https://jvas28.github.io/covid19-dashboard/) ([repo](https://github.com/jvas28/covid19-dashboard)): Simple COVID-19 dashboard made with React and Tailwindcss
-- [COVID-19 data](https://covid-19data.herokuapp.com/)([repo](https://github.com/kaline/COVID19Data)): Basic website to view COVID-19 evolution daily around the world.
-- [Linked COVID-19 Data](http://covid19data.link/)([repo](https://github.com/Research-Squirrel-Engineers/COVID-19)): Website to visualise COVID-19 from RDF.
+- [COVID-19 data](https://covid-19data.herokuapp.com/) ([repo](https://github.com/kaline/COVID19Data)): Basic website to view COVID-19 evolution daily around the world.
+- [Interactive charts.js visualization COVID19](https://gifted-shockley-19f8b9.netlify.app//) ([repo](https://github.com/freethrow/covid19)): Daily updated for all countries with population metrics.
+- [Linked COVID-19 Data](http://covid19data.link/) ([repo](https://github.com/Research-Squirrel-Engineers/COVID-19)): Website to visualise COVID-19 from RDF.
 
 #### Analysis
 
