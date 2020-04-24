@@ -136,6 +136,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 data](https://covid-19data.herokuapp.com/) ([repo](https://github.com/kaline/COVID19Data)): Basic website to view COVID-19 evolution daily around the world.
 - [Interactive charts.js visualization COVID19](https://gifted-shockley-19f8b9.netlify.app//) ([repo](https://github.com/freethrow/covid19)): Daily updated for all countries with population metrics.
 - [Linked COVID-19 Data](http://covid19data.link/) ([repo](https://github.com/Research-Squirrel-Engineers/COVID-19)): Website to visualise COVID-19 from RDF.
+- [Interactive eCharts for all countries of the world ](https://entorb.net/COVID-19-coronavirus/#CountriesCustomChart) ([repo](https://github.com/entorb/COVID-19-Coronavirus-German-Regions)): Select from a wide range of properties for all countries of the world, data scaled by population. 
 
 #### Analysis
 
