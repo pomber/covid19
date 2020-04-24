@@ -86966,14 +86966,14 @@
     },
     {
       "date": "2020-4-21",
-      "confirmed": 812036,
+      "confirmed": 811865,
       "deaths": 44444,
       "recovered": 75204
     },
     {
       "date": "2020-4-22",
-      "confirmed": 839675,
-      "deaths": 46583,
+      "confirmed": 840351,
+      "deaths": 46622,
       "recovered": 77366
     }
   ],
