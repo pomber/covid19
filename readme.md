@@ -49,6 +49,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 Datawrapper Widget With Auto Refresh](https://medium.com/@simondhaas/import-json-data-google-sheets-auto-refresh-covid-19-widget-6cf34946e869): How to Import JSON Data From This API Into Google Sheets — and Create a COVID-19 Widget With Datawrapper in Less Than 5 Minutes
 
 #### Visualizations
+- [Covid19 Visuals](https://workaholic7.github.io/covid19visuals/) ([repo](https://github.com/workaholic7/covid19visuals)): React app with Corona statistics globally and country wise.
 - [CoronaStats](https://hungry-ptolemy-f3118f.netlify.app/home) ([repo](https://github.com/trujilloRJ/coronaStats)): visualize time series per country
 - [Coronow](https://etcho.github.io/coronow) ([repo](https://github.com/etcho/coronow)): Dashboard about COVID-19 with counters and charts
 - [Coronavirus-plotter](https://alexanderritik.github.io/Coronavirus-Epidemic/) ([repo](https://github.com/alexanderritik/Coronavirus-Epidemic)) :Its is web app with globe view to give all current situation with charts and animation effects.
