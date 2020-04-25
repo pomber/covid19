@@ -138,6 +138,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Interactive charts.js visualization COVID19](https://gifted-shockley-19f8b9.netlify.app//) ([repo](https://github.com/freethrow/covid19)): Daily updated for all countries with population metrics.
 - [Linked COVID-19 Data](http://covid19data.link/) ([repo](https://github.com/Research-Squirrel-Engineers/COVID-19)): Website to visualise COVID-19 from RDF.
 - [Interactive eCharts for all countries of the world ](https://entorb.net/COVID-19-coronavirus/#CountriesCustomChart) ([repo](https://github.com/entorb/COVID-19-Coronavirus-German-Regions)): Select from a wide range of properties for all countries of the world, data scaled by population. 
+- [LWC Open Source COVID-19](https://covid-figures--nodejs-lwc.herokuapp.com/) ([repo](https://github.com/ozanbotanls/covid19-lwc-nodejs)): A Node.js app that leverages Salesforce's Lightning Web Components (LWC) to show world-wide COVID-19 figures.
 
 #### Analysis
 
