@@ -5114,37 +5114,37 @@
       "date": "2020-4-20",
       "confirmed": 6623,
       "deaths": 67,
-      "recovered": 4124
+      "recovered": 4291
     },
     {
       "date": "2020-4-21",
       "confirmed": 6645,
       "deaths": 67,
-      "recovered": 4124
+      "recovered": 4695
     },
     {
       "date": "2020-4-22",
       "confirmed": 6652,
       "deaths": 67,
-      "recovered": 4124
+      "recovered": 4932
     },
     {
       "date": "2020-4-23",
       "confirmed": 6662,
       "deaths": 75,
-      "recovered": 4124
+      "recovered": 5047
     },
     {
       "date": "2020-4-24",
       "confirmed": 6677,
       "deaths": 79,
-      "recovered": 4124
+      "recovered": 5136
     },
     {
       "date": "2020-4-25",
       "confirmed": 6694,
       "deaths": 80,
-      "recovered": 4223
+      "recovered": 5376
     }
   ],
   "Austria": [
