@@ -140,7 +140,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Interactive eCharts for all countries of the world ](https://entorb.net/COVID-19-coronavirus/#CountriesCustomChart) ([repo](https://github.com/entorb/COVID-19-Coronavirus-German-Regions)): Select from a wide range of properties for all countries of the world, data scaled by population. 
 - [LWC Open Source COVID-19](https://covid-figures--nodejs-lwc.herokuapp.com/) ([repo](https://github.com/ozanbotanls/covid19-lwc-nodejs)): A Node.js app that leverages Salesforce's Lightning Web Components (LWC) to show world-wide COVID-19 figures.
 - [COVID-19 Country-wise Infection, Recovery and Death rates](https://n-covid19.netlify.app) ([repo](https://github.com/narayanasvenkat/covid19)): COVID-19 dashboard using ReactJS, Material UI and ChartJS.
-
+- [COVID-19-Dashboard](http://covidemic.org)([repo](https://github.com/AhmadChaiban/COVID-19-Dashboard)): d3.js/Javascript Data visualization project to monitor the spread of COVID-19 built in d3.js and hosted on an AWS EC2. Thanks for the data!
 
 #### Analysis
 
@@ -152,7 +152,6 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [PowerBI-driven COVID-2019 Tracking](https://github.com/andriikopp/powerbi-covid-2019/tree/master): Power BI Desktop dashboard based on JSON data about COVID-2019 spread
 - [COVID-19 Linear Regression Model](https://blazpocrnja.github.io/covid-19/) ([repo](https://github.com/BlazPocrnja/covid-19)): React web application using linear regression to plot trendlines for daily case growth.
 - [COVID Time Series](https://covidtimeseries.com/) ([repo](https://bitbucket.org/nrodrigo/covidtimeseries/src)): Django/Chart.js application plotting time series metrics for countries and the United States (broken down by each state)
-- [COVID-19-Dashboard](http://covidemic.org)([repo](https://github.com/AhmadChaiban/COVID-19-Dashboard)): d3.js/Javascript Data visualization project to monitor the spread of COVID-19 built in d3.js and hosted on an AWS EC2. Thanks for the data!
 
 ### Adding your project to the list
 
