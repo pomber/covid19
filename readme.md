@@ -152,7 +152,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [PowerBI-driven COVID-2019 Tracking](https://github.com/andriikopp/powerbi-covid-2019/tree/master): Power BI Desktop dashboard based on JSON data about COVID-2019 spread
 - [COVID-19 Linear Regression Model](https://blazpocrnja.github.io/covid-19/) ([repo](https://github.com/BlazPocrnja/covid-19)): React web application using linear regression to plot trendlines for daily case growth.
 - [COVID Time Series](https://covidtimeseries.com/) ([repo](https://bitbucket.org/nrodrigo/covidtimeseries/src)): Django/Chart.js application plotting time series metrics for countries and the United States (broken down by each state)
-
+- [COVID-19 India Dashoboard](http://hisham2k9.pythonanywhere.com/) ([repo](https://github.com/hisham2k9/covid_dash)) : A comprehensive dashboard on spread of Covid-19 in India with district level data, and how cases in india stack up against other countries. 
 ### Adding your project to the list
 
 Pull requests adding more projects to this list are welcome, just a few rules:
