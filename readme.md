@@ -35,6 +35,31 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
   });
 ```
 
+If you want to use it inside a page in your website with Jquery and Javascript
+
+$.getJSON("https://pomber.github.io/covid19/timeseries.json", function (data) {
+            var base = document.createElement("div");
+            base.setAttribute("class", "newPadding GoogleDivAllblur");
+            base.setAttribute("style", "height: 170px; width:170px; margin-right: 7px!important; margin-bottom: 7px!important; border: 1px solid black;");
+            var panel = document.createElement("ul");
+            panel.setAttribute("class", "newPadding  h-100");
+            base.appendChild(panel);
+            $.each(data, function (key, val) {
+                if (key == "Mexico")
+                {
+                    var item = document.createElement("li");
+                    var LastIndex = val.length - 1;
+                    item.innerHTML = '<p>Confirmed: ' + val[LastIndex].confirmed + '</p>';
+                    item.innerHTML += '<p>Deaths: ' + val[LastIndex].deaths + '</p>';
+                    item.innerHTML += '<p>Recovered: ' + val[LastIndex].recovered + '</p>';
+                    item.innerHTML += '<p>Date: ' + val[LastIndex].date + '</p>';
+                    panel.appendChild(item);
+                }
+            });
+            $(base.outerHTML).appendTo('#dv_Lists');
+        });
+
+
 ### Projects using this dataset ([+ add yours](#user-content-adding-your-project-to-the-list))
 
 #### APIs
