@@ -141,8 +141,8 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [LWC Open Source COVID-19](https://covid-figures--nodejs-lwc.herokuapp.com/) ([repo](https://github.com/ozanbotanls/covid19-lwc-nodejs)): A Node.js app that leverages Salesforce's Lightning Web Components (LWC) to show world-wide COVID-19 figures.
 - [COVID-19 Country-wise Infection, Recovery and Death rates](https://n-covid19.netlify.app) ([repo](https://github.com/narayanasvenkat/covid19)): COVID-19 dashboard using ReactJS, Material UI and ChartJS.
 - [COVID-19-Dashboard](http://covidemic.org)([repo](https://github.com/AhmadChaiban/COVID-19-Dashboard)): d3.js/Javascript Data visualization project to monitor the spread of COVID-19 built in d3.js and hosted on an AWS EC2. Thanks for the data!
+- [COVID-19 India Dashoboard](http://hisham2k9.pythonanywhere.com/) ([repo](https://github.com/hisham2k9/covid_dash)) : A comprehensive dashboard on spread of Covid-19 in India with district level data, and how cases in india stack up against other countries. International data from this repo and India-district level data coming from covid19india.org.
 - [COVID-19 😷 Data Visualizer](https://shawn1912.github.io/covid-19-p5) ([repo](https://github.com/Shawn1912/covid-19-p5)): A computer graphics project to visualize realtime covid-19 stats using JavaScript libraries - p5.js and grafica.js
-
 
 #### Analysis
 
@@ -163,7 +163,6 @@ Pull requests adding more projects to this list are welcome, just a few rules:
 - Make sure the project cite this repo as a data source (with a link) 
 - Follow the same order as the rest of the list `- [project-name](your-project-url) ([repo](repo-url)): description`
 - Try not to add extra blank lines, it breaks the formatting
-
 
 👉 [add a new project to the list](https://github.com/pomber/covid19/edit/master/readme.md)
 
