@@ -121,7 +121,6 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Corona Counter](https://edwardleks.github.io/corona_counter/) ([repo](https://github.com/EdwardLeks/corona_counter)): Simple Corona virus counter 🦠
 - [Coronavirus WORLD STATISTICS](http://verultimasnoticias.com/covid19/): COVID-19 Stats and Charts
 - [Cobot-19](https://discordapp.com/oauth2/authorize?&client_id=690568808154398772&scope=bot&permissions=51200) ([repo](https://github.com/Jackojc/cobot-19)): A Discord bot that graphs Covid-19 statistics.
-- [COVIDmap - Global Map Visualization 🗺](https://covidmap.now.sh/) ([repo](https://github.com/mayankverr/COVIDmap)): Map visualization of all the areas affected by coronavirus disease aka COVID-19
 - [Covid19 Racing Chart](https://covid19.lkameya.com/) ([repo](https://github.com/lkameya/covid19)): Racing Chart of the cases/deaths evolution through time.
 - [Covid19 Visuals](https://covid19visuals.com/) ([repo](https://github.com/priyanshrastogi/covid19visuals)): Global Covid19 Statistics, Visualizations (Maps, Charts, Tables) and Facts.
 - [corona-tracker](https://arosisi.github.io/corona-tracker) ([repo](https://github.com/arosisi/corona-tracker)): 3D & 2D visualization of the number of cases worldwide
