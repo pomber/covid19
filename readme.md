@@ -156,6 +156,11 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID Time Series](https://covidtimeseries.com/) ([repo](https://bitbucket.org/nrodrigo/covidtimeseries/src)): Django/Chart.js application plotting time series metrics for countries and the United States (broken down by each state)
 - [Coronavirus analysis from a Brazilian perspective](https://github.com/rafaelcastellar/coronavirus) ([repo](https://github.com/rafaelcastellar/coronavirus)): Jupyter notebooks, consolidated free datasets for analysis of the world's  coronavirus pandemic with a zoom in Brazil and its states.
 
+#### Database Dump
+**MySQL**: [https://github.com/mahabub81/covid-19-api/tree/master/covid-19-mysql-dymp](https://github.com/mahabub81/covid-19-api/tree/master/covid-19-mysql-dymp)
+
+**Postgres**: [https://github.com/mahabub81/covid-19-api/tree/master/covid-19-postgres-dump](https://github.com/mahabub81/covid-19-api/tree/master/covid-19-postgres-dump)
+
 ### Adding your project to the list
 
 Pull requests adding more projects to this list are welcome, just a few rules:
