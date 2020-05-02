@@ -47,6 +47,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 #### Tutorials
 - [Build a Coronavirus web site with Next.js](https://pomb.us/nextjs-static-props/) ([repo](https://github.com/pomber/nextjs-static-props)) - How to use Next.js to build a static Coronavirus web site
 - [COVID-19 Datawrapper Widget With Auto Refresh](https://medium.com/@simondhaas/import-json-data-google-sheets-auto-refresh-covid-19-widget-6cf34946e869): How to Import JSON Data From This API Into Google Sheets — and Create a COVID-19 Widget With Datawrapper in Less Than 5 Minutes
+- [The ultimate flutter tutorial for beginners](https://milapneupane.com.np/2020/05/01/the-ultimate-flutter-tutorial-for-beginners/): At the end of this tutorial, you will be able to develop a mobile app that fetches covid19 stats data from the server and display them in various UI widgets.
 
 #### Visualizations
 - [Covid19 Visuals](https://workaholic7.github.io/covid19visuals/) ([repo](https://github.com/workaholic7/covid19visuals)): React app with Corona statistics globally and country wise.
