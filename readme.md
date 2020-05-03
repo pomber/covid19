@@ -156,7 +156,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [PowerBI-driven COVID-2019 Tracking](https://github.com/andriikopp/powerbi-covid-2019/tree/master): Power BI Desktop dashboard based on JSON data about COVID-2019 spread
 - [COVID-19 Linear Regression Model](https://blazpocrnja.github.io/covid-19/) ([repo](https://github.com/BlazPocrnja/covid-19)): React web application using linear regression to plot trendlines for daily case growth.
 - [COVID Time Series](https://covidtimeseries.com/) ([repo](https://bitbucket.org/nrodrigo/covidtimeseries/src)): Django/Chart.js application plotting time series metrics for countries and the United States (broken down by each state)
-- [Coronavirus analysis from a Brazilian perspective](https://github.com/rafaelcastellar/coronavirus) ([repo](https://github.com/rafaelcastellar/coronavirus)): Jupyter notebooks, consolidated free datasets for analysis of the world's  coronavirus pandemic with a zoom in Brazil and its states.
+- [Coronavirus analysis from a Brazilian perspective](https://corona19br.netlify.app/html/index.html) ([repo](https://github.com/rafaelcastellar/coronavirus)): Jupyter notebooks, consolidated free datasets for analysis of the world's  coronavirus pandemic with a zoom in Brazil and its states.
 - [COVID-19 Extended Analitical Dashboard](https://metriker.com): Multi purposes COVID-19 analisys tool which provides various common and specific metrics in a view of 2d/3d charts with configurable options.
 
 ### Adding your project to the list
