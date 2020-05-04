@@ -145,6 +145,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 😷 Data Visualizer](https://shawn1912.github.io/covid-19-p5) ([repo](https://github.com/Shawn1912/covid-19-p5)): A computer graphics project to visualize realtime covid-19 stats using JavaScript libraries - p5.js and grafica.js
 - [COVID-19 Nepal 🇳🇵](https://github.com/milap-neupane/covid19)([repo](https://github.com/milap-neupane/covid19)): A visualization app for iOS and android build with flutter for the covid stats in Nepal.
 - [Covid19-MotionMap](https://github.com/LangeJM/Covid19-MotionMap) ([repo](https://github.com/LangeJM/Covid19-MotionMap)): A Python script to create a gif geo map (motion map) of Covid19 cases world wide.
+- [COVID-19 Comparative](https://covid19-wrld.web.app) ([repo](https://github.com/lfabianosb/covid19-world)): Compare confirmed cases between countries around the world.
 
 #### Analysis
 
