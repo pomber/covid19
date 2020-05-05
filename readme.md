@@ -145,6 +145,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 😷 Data Visualizer](https://shawn1912.github.io/covid-19-p5) ([repo](https://github.com/Shawn1912/covid-19-p5)): A computer graphics project to visualize realtime covid-19 stats using JavaScript libraries - p5.js and grafica.js
 - [COVID-19 Nepal 🇳🇵](https://github.com/milap-neupane/covid19)([repo](https://github.com/milap-neupane/covid19)): A visualization app for iOS and android build with flutter for the covid stats in Nepal.
 - [Covid19-MotionMap](https://github.com/LangeJM/Covid19-MotionMap) ([repo](https://github.com/LangeJM/Covid19-MotionMap)): A Python script to create a gif geo map (motion map) of Covid19 cases world wide.
+- [Covid-19 Interactive Dashboard for Bangladesh](https://www.co-ronabd.info/) ([repo](https://github.com/KhanShaheb34/nCov19-InteractiveDashboard-BD)): Interactive Dashboard of Bangladesh for the Covid-19 Pandemic
 
 #### Analysis
 
@@ -158,6 +159,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID Time Series](https://covidtimeseries.com/) ([repo](https://bitbucket.org/nrodrigo/covidtimeseries/src)): Django/Chart.js application plotting time series metrics for countries and the United States (broken down by each state)
 - [Coronavirus analysis from a Brazilian perspective](https://corona19br.netlify.app/html/index.html) ([repo](https://github.com/rafaelcastellar/coronavirus)): Jupyter notebooks, consolidated free datasets for analysis of the world's  coronavirus pandemic with a zoom in Brazil and its states.
 - [COVID-19 Extended Analitical Dashboard](https://metriker.com): Multi purposes COVID-19 analisys tool which provides various common and specific metrics in a view of 2d/3d charts with configurable options.
+
 
 ### Adding your project to the list
 
