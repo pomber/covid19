@@ -158,6 +158,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID Time Series](https://covidtimeseries.com/) ([repo](https://bitbucket.org/nrodrigo/covidtimeseries/src)): Django/Chart.js application plotting time series metrics for countries and the United States (broken down by each state)
 - [Coronavirus analysis from a Brazilian perspective](https://corona19br.netlify.app/html/index.html) ([repo](https://github.com/rafaelcastellar/coronavirus)): Jupyter notebooks, consolidated free datasets for analysis of the world's  coronavirus pandemic with a zoom in Brazil and its states.
 - [COVID-19 Extended Analitical Dashboard](https://metriker.com): Multi purposes COVID-19 analisys tool which provides various common and specific metrics in a view of 2d/3d charts with configurable options.
+[CovidCubadata](https://covid19cubadata.github.io/world.html) ([repo](https://github.com/covid19cubadata/covid19cubadata.github.io)): Various analysis comparing Cuba with the rest of the world
 
 ### Adding your project to the list
 
