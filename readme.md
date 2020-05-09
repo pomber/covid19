@@ -56,7 +56,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Coronavirus-plotter](https://alexanderritik.github.io/Coronavirus-Epidemic/) ([repo](https://github.com/alexanderritik/Coronavirus-Epidemic)) :Its is web app with globe view to give all current situation with charts and animation effects.
 - [COVID-19-INDIA-WORLD](https://covid19.saurav.tech/) ([repo](https://github.com/SauravKanchan/corona)): COVID-19 Tracker build with [svelte](https://svelte.dev/)
 - [Plotting COVID-19](https://rsheptolut.github.io/plot-covid) ([repo](https://github.com/rsheptolut/plot-covid)): Configurable and shareable COVID-19 country comparison charts.
-- [YACA](https://aequologica.net/covid/) ([repo](https://github.com/aequologica/aequologica.github.io/tree/master/covid)): Yet Another Covid-19 App. Graph of daily deaths. Tweakable options are: 1. select multiple countries, 2. size of rolling average, 3. absolute vs per capita, and 4. logaritmic vs linear Y axis.
+- [YACA](https://aequologica.net/covid/) ([repo](https://github.com/aequologica/aequologica.github.io/tree/master/covid)): Yet Another Covid-19 App. Graphs of daily confimed or recovered cases, and of daily deaths. Tweakable options are: 1. select multiple countries, 2. size of rolling average, 3. absolute vs per capita, and 4. logaritmic vs linear Y axis.
 - [COVID-19 World at a Glance!](https://covid-19-world.netlify.com/) ([repo](https://github.com/atapas/covid-19)): Dashboard with COVID-19 Visualization of my Country(India), World Spread Comparator and Country level details across the world.
 - [COVID-19 Global Report](https://app.powerbi.com/view?r=eyJrIjoiNTFmNzExYzktN2QyNi00ZGNhLTg1MjQtYTUyOWIyMGYzOGI2IiwidCI6IjE1M2U3N2E0LWMyOWQtNGYyZS04ODU3LWU0MDU5M2YxNjkzMCJ9) ([repo](https://github.com/vinecz-data/coronavirus)): COVID-19 Global Report focus in Brazil and World. Made with Snowflake, Pentaho and Power BI.
 - [Corona Status Brazil - Mobile Friendly](https://ericcoutinho.github.io/corona-status-brasil) ([repo](https://github.com/ericcoutinho/corona-status-brasil)): Covid-19 daily report Brazil in a mobile friendly website. 
@@ -146,6 +146,9 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 Nepal 🇳🇵](https://github.com/milap-neupane/covid19)([repo](https://github.com/milap-neupane/covid19)): A visualization app for iOS and android build with flutter for the covid stats in Nepal.
 - [Covid19-MotionMap](https://github.com/LangeJM/Covid19-MotionMap) ([repo](https://github.com/LangeJM/Covid19-MotionMap)): A Python script to create a gif geo map (motion map) of Covid19 cases world wide.
 - [COVID-19 Dashboard](https://techie448.github.io/covid19/) ([repo](https://github.com/techie448/covid19)): COVID-19 Dashboard created using React and D3. Race Bar Chart, Historical Data and Geographical Map.
+- [COVID-19 Comparative](https://covid19-wrld.web.app) ([repo](https://github.com/lfabianosb/covid19-world)): Compare confirmed cases between countries around the world.
+- [covid19app](https://github.com/bentoavb/covid19app): react native mobile app to monitor covid-19 cases.
+- [Covid-19 Interactive Dashboard for Bangladesh](https://www.co-ronabd.info/) ([repo](https://github.com/KhanShaheb34/nCov19-InteractiveDashboard-BD)): Interactive Dashboard of Bangladesh for the Covid-19 Pandemic
 
 #### Analysis
 
@@ -159,6 +162,9 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID Time Series](https://covidtimeseries.com/) ([repo](https://bitbucket.org/nrodrigo/covidtimeseries/src)): Django/Chart.js application plotting time series metrics for countries and the United States (broken down by each state)
 - [Coronavirus analysis from a Brazilian perspective](https://corona19br.netlify.app/html/index.html) ([repo](https://github.com/rafaelcastellar/coronavirus)): Jupyter notebooks, consolidated free datasets for analysis of the world's  coronavirus pandemic with a zoom in Brazil and its states.
 - [COVID-19 Extended Analitical Dashboard](https://metriker.com): Multi purposes COVID-19 analisys tool which provides various common and specific metrics in a view of 2d/3d charts with configurable options.
+- [CovidCubadata](https://covid19cubadata.github.io/world.html) ([repo](https://github.com/covid19cubadata/covid19cubadata.github.io)): Various analysis comparing Cuba with the rest of the world
+- [Covid-19 Predictor India](https://covid-19predictor.herokuapp.com/) ([Covid-19-Prediction](https://github.com/PrateekGoyal18/Covid-19-Prediction)): A web application for forecasting the number of Covid-19 cases in India (cumulative and state-wise).
+- [Covid-19 Pandemic Status](http://corona.rickkln.com/) ([repo](https://github.com/rickkln/corona)): A simple tool to track global progress in defeating Covid-19, by focusing on the rate of change in death count globally and classifying countries by associated status.
 
 ### Adding your project to the list
 
