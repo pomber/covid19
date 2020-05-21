@@ -99520,7 +99520,7 @@
       "date": "2020-5-19",
       "confirmed": 232037,
       "deaths": 27778,
-      "recovered": 0
+      "recovered": 150376
     }
   ],
   "Sri Lanka": [
@@ -111956,98 +111956,98 @@
     },
     {
       "date": "2020-3-5",
-      "confirmed": 217,
+      "confirmed": 219,
       "deaths": 12,
       "recovered": 7
     },
     {
       "date": "2020-3-6",
-      "confirmed": 262,
+      "confirmed": 267,
       "deaths": 14,
       "recovered": 7
     },
     {
       "date": "2020-3-7",
-      "confirmed": 402,
+      "confirmed": 403,
       "deaths": 17,
       "recovered": 7
     },
     {
       "date": "2020-3-8",
-      "confirmed": 518,
+      "confirmed": 519,
       "deaths": 21,
       "recovered": 7
     },
     {
       "date": "2020-3-9",
-      "confirmed": 583,
+      "confirmed": 588,
       "deaths": 22,
       "recovered": 7
     },
     {
       "date": "2020-3-10",
-      "confirmed": 959,
+      "confirmed": 962,
       "deaths": 28,
       "recovered": 8
     },
     {
       "date": "2020-3-11",
-      "confirmed": 1281,
+      "confirmed": 1285,
       "deaths": 36,
       "recovered": 8
     },
     {
       "date": "2020-3-12",
-      "confirmed": 1663,
-      "deaths": 41,
+      "confirmed": 1667,
+      "deaths": 42,
       "recovered": 12
     },
     {
       "date": "2020-3-13",
-      "confirmed": 2179,
-      "deaths": 49,
+      "confirmed": 2181,
+      "deaths": 50,
       "recovered": 12
     },
     {
       "date": "2020-3-14",
-      "confirmed": 2727,
-      "deaths": 58,
+      "confirmed": 2729,
+      "deaths": 60,
       "recovered": 12
     },
     {
       "date": "2020-3-15",
-      "confirmed": 3499,
-      "deaths": 73,
+      "confirmed": 3536,
+      "deaths": 74,
       "recovered": 12
     },
     {
       "date": "2020-3-16",
-      "confirmed": 4632,
-      "deaths": 99,
+      "confirmed": 4661,
+      "deaths": 100,
       "recovered": 17
     },
     {
       "date": "2020-3-17",
-      "confirmed": 6421,
-      "deaths": 133,
+      "confirmed": 6437,
+      "deaths": 134,
       "recovered": 17
     },
     {
       "date": "2020-3-18",
-      "confirmed": 7783,
-      "deaths": 164,
+      "confirmed": 7781,
+      "deaths": 165,
       "recovered": 105
     },
     {
       "date": "2020-3-19",
-      "confirmed": 13747,
-      "deaths": 258,
+      "confirmed": 13748,
+      "deaths": 259,
       "recovered": 121
     },
     {
       "date": "2020-3-20",
-      "confirmed": 19273,
-      "deaths": 349,
+      "confirmed": 19274,
+      "deaths": 350,
       "recovered": 147
     },
     {
@@ -112058,26 +112058,26 @@
     },
     {
       "date": "2020-3-22",
-      "confirmed": 33276,
-      "deaths": 586,
+      "confirmed": 33280,
+      "deaths": 587,
       "recovered": 178
     },
     {
       "date": "2020-3-23",
-      "confirmed": 43843,
+      "confirmed": 43862,
       "deaths": 786,
       "recovered": 178
     },
     {
       "date": "2020-3-24",
-      "confirmed": 53736,
-      "deaths": 1008,
+      "confirmed": 53925,
+      "deaths": 1011,
       "recovered": 348
     },
     {
       "date": "2020-3-25",
-      "confirmed": 65778,
-      "deaths": 1316,
+      "confirmed": 65844,
+      "deaths": 1320,
       "recovered": 361
     },
     {
@@ -112088,26 +112088,26 @@
     },
     {
       "date": "2020-3-27",
-      "confirmed": 101657,
-      "deaths": 2265,
+      "confirmed": 101962,
+      "deaths": 2269,
       "recovered": 869
     },
     {
       "date": "2020-3-28",
-      "confirmed": 121465,
-      "deaths": 2731,
+      "confirmed": 121786,
+      "deaths": 2744,
       "recovered": 1072
     },
     {
       "date": "2020-3-29",
-      "confirmed": 140909,
+      "confirmed": 140910,
       "deaths": 3420,
       "recovered": 2665
     },
     {
       "date": "2020-3-30",
-      "confirmed": 161831,
-      "deaths": 4192,
+      "confirmed": 162147,
+      "deaths": 4196,
       "recovered": 5644
     },
     {
@@ -112118,26 +112118,26 @@
     },
     {
       "date": "2020-4-1",
-      "confirmed": 213242,
-      "deaths": 6501,
+      "confirmed": 213602,
+      "deaths": 6511,
       "recovered": 8474
     },
     {
       "date": "2020-4-2",
-      "confirmed": 243622,
-      "deaths": 7921,
+      "confirmed": 244008,
+      "deaths": 7938,
       "recovered": 9001
     },
     {
       "date": "2020-4-3",
-      "confirmed": 275367,
-      "deaths": 9246,
+      "confirmed": 275798,
+      "deaths": 9260,
       "recovered": 9707
     },
     {
       "date": "2020-4-4",
-      "confirmed": 308650,
-      "deaths": 10855,
+      "confirmed": 309027,
+      "deaths": 10870,
       "recovered": 14652
     },
     {
@@ -112166,20 +112166,20 @@
     },
     {
       "date": "2020-4-9",
-      "confirmed": 462780,
-      "deaths": 20255,
+      "confirmed": 463327,
+      "deaths": 20288,
       "recovered": 25410
     },
     {
       "date": "2020-4-10",
-      "confirmed": 496535,
-      "deaths": 22333,
+      "confirmed": 496846,
+      "deaths": 22357,
       "recovered": 28790
     },
     {
       "date": "2020-4-11",
-      "confirmed": 526396,
-      "deaths": 24342,
+      "confirmed": 526776,
+      "deaths": 24366,
       "recovered": 31270
     },
     {
@@ -112190,7 +112190,7 @@
     },
     {
       "date": "2020-4-13",
-      "confirmed": 580619,
+      "confirmed": 580624,
       "deaths": 27870,
       "recovered": 43482
     },
@@ -112202,26 +112202,26 @@
     },
     {
       "date": "2020-4-15",
-      "confirmed": 636350,
-      "deaths": 32734,
+      "confirmed": 636674,
+      "deaths": 32760,
       "recovered": 52096
     },
     {
       "date": "2020-4-16",
-      "confirmed": 667592,
-      "deaths": 34827,
+      "confirmed": 667981,
+      "deaths": 34844,
       "recovered": 54703
     },
     {
       "date": "2020-4-17",
-      "confirmed": 699706,
-      "deaths": 37411,
+      "confirmed": 700062,
+      "deaths": 37428,
       "recovered": 58545
     },
     {
       "date": "2020-4-18",
-      "confirmed": 732197,
-      "deaths": 39753,
+      "confirmed": 732590,
+      "deaths": 39775,
       "recovered": 64840
     },
     {
@@ -112232,8 +112232,8 @@
     },
     {
       "date": "2020-4-20",
-      "confirmed": 784326,
-      "deaths": 42659,
+      "confirmed": 784708,
+      "deaths": 42686,
       "recovered": 72329
     },
     {
