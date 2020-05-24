@@ -150,6 +150,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [covid19app](https://github.com/bentoavb/covid19app): react native mobile app to monitor covid-19 cases.
 - [Covid-19 Interactive Dashboard for Bangladesh](https://www.co-ronabd.info/) ([repo](https://github.com/KhanShaheb34/nCov19-InteractiveDashboard-BD)): Interactive Dashboard of Bangladesh for the Covid-19 Pandemic
 - [Telegram bot to show COVID-19 visual graphs](https://t.me/covid19_visual_bot) ([repo](https://github.com/iglaweb/covid19_visual_bot)):  Telegram COVID bot is intended to provide visual statistical information about Novel Coronavirus (2019-nCoV)
+- [Realtime Statistical Updates on state of COVID19 in Uganda](https://as1ndu.github.io/covidug/index.html) ([repo](https://github.com/as1ndu/covidug)):  A simple dashboard with realtime statistical updates on state of COVID19 in Uganda
 
 #### Analysis
 
