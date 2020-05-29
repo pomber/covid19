@@ -119913,37 +119913,37 @@
     {
       "date": "2020-5-22",
       "confirmed": 1600937,
-      "deaths": 95979,
+      "deaths": 95978,
       "recovered": 350135
     },
     {
       "date": "2020-5-23",
       "confirmed": 1622612,
-      "deaths": 97087,
+      "deaths": 97086,
       "recovered": 361239
     },
     {
       "date": "2020-5-24",
       "confirmed": 1643246,
-      "deaths": 97720,
+      "deaths": 97719,
       "recovered": 366736
     },
     {
       "date": "2020-5-25",
       "confirmed": 1662302,
-      "deaths": 98220,
+      "deaths": 98219,
       "recovered": 379157
     },
     {
       "date": "2020-5-26",
       "confirmed": 1680913,
-      "deaths": 98913,
+      "deaths": 98912,
       "recovered": 384902
     },
     {
       "date": "2020-5-27",
       "confirmed": 1699176,
-      "deaths": 100418,
+      "deaths": 100417,
       "recovered": 391508
     }
   ],
