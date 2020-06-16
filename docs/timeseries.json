@@ -62755,7 +62755,7 @@
     {
       "date": "2020-6-10",
       "confirmed": 286605,
-      "deaths": 8498,
+      "deaths": 8102,
       "recovered": 135206
     },
     {
@@ -62766,21 +62766,21 @@
     },
     {
       "date": "2020-6-12",
-      "confirmed": 297535,
-      "deaths": 8498,
-      "recovered": 147195
-    },
-    {
-      "date": "2020-6-13",
       "confirmed": 308993,
       "deaths": 8884,
       "recovered": 154330
     },
     {
-      "date": "2020-6-14",
+      "date": "2020-6-13",
       "confirmed": 320922,
       "deaths": 9195,
       "recovered": 162379
+    },
+    {
+      "date": "2020-6-14",
+      "confirmed": 332424,
+      "deaths": 9520,
+      "recovered": 169798
     }
   ],
   "Indonesia": [
