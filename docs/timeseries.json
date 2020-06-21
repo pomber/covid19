@@ -141603,13 +141603,13 @@
     {
       "date": "2020-6-18",
       "confirmed": 2191052,
-      "deaths": 118434,
+      "deaths": 118432,
       "recovered": 599115
     },
     {
       "date": "2020-6-19",
-      "confirmed": 2220961,
-      "deaths": 119112,
+      "confirmed": 2222579,
+      "deaths": 119124,
       "recovered": 606715
     }
   ],
