@@ -20096,7 +20096,7 @@
     },
     {
       "date": "2020-6-20",
-      "confirmed": 1032913,
+      "confirmed": 1067579,
       "deaths": 49976,
       "recovered": 576779
     },
@@ -130684,20 +130684,20 @@
     },
     {
       "date": "2020-6-19",
-      "confirmed": 56043,
-      "deaths": 5053,
+      "confirmed": 58076,
+      "deaths": 5105,
       "recovered": 0
     },
     {
       "date": "2020-6-20",
-      "confirmed": 56043,
-      "deaths": 5053,
+      "confirmed": 58591,
+      "deaths": 5109,
       "recovered": 0
     },
     {
       "date": "2020-6-21",
-      "confirmed": 56043,
-      "deaths": 5053,
+      "confirmed": 58848,
+      "deaths": 5111,
       "recovered": 0
     }
   ],
