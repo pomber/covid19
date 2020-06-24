@@ -109456,9 +109456,9 @@
     },
     {
       "date": "2020-6-19",
-      "confirmed": 244388,
-      "deaths": 7461,
-      "recovered": 131190
+      "confirmed": 247925,
+      "deaths": 7660,
+      "recovered": 135520
     },
     {
       "date": "2020-6-20",
@@ -109468,8 +109468,8 @@
     },
     {
       "date": "2020-6-21",
-      "confirmed": 251338,
-      "deaths": 7861,
+      "confirmed": 254936,
+      "deaths": 8045,
       "recovered": 141967
     },
     {
