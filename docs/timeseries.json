@@ -76954,9 +76954,9 @@
     },
     {
       "date": "2020-6-29",
-      "confirmed": 18477,
+      "confirmed": 18476,
       "deaths": 972,
-      "recovered": 16392
+      "recovered": 16388
     }
   ],
   "Jordan": [
@@ -141408,9 +141408,9 @@
     },
     {
       "date": "2020-6-29",
-      "confirmed": 3171,
+      "confirmed": 3169,
       "deaths": 58,
-      "recovered": 3056
+      "recovered": 3053
     }
   ],
   "Togo": [
@@ -147180,9 +147180,9 @@
     },
     {
       "date": "2020-6-29",
-      "confirmed": 45244,
-      "deaths": 1173,
-      "recovered": 19767
+      "confirmed": 44538,
+      "deaths": 1161,
+      "recovered": 19679
     }
   ],
   "United Arab Emirates": [
@@ -151028,8 +151028,8 @@
     },
     {
       "date": "2020-6-29",
-      "confirmed": 2590582,
-      "deaths": 126141,
+      "confirmed": 2590552,
+      "deaths": 126140,
       "recovered": 705203
     }
   ],
@@ -151990,7 +151990,7 @@
     },
     {
       "date": "2020-6-29",
-      "confirmed": 8298,
+      "confirmed": 8222,
       "deaths": 23,
       "recovered": 5496
     }
