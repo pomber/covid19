@@ -156668,20 +156668,20 @@
     },
     {
       "date": "2020-7-3",
-      "confirmed": 2794153,
-      "deaths": 129434,
+      "confirmed": 2795361,
+      "deaths": 129442,
       "recovered": 790404
     },
     {
       "date": "2020-7-4",
-      "confirmed": 2839436,
-      "deaths": 129676,
+      "confirmed": 2841241,
+      "deaths": 129689,
       "recovered": 894325
     },
     {
       "date": "2020-7-5",
-      "confirmed": 2888635,
-      "deaths": 129947,
+      "confirmed": 2891124,
+      "deaths": 129960,
       "recovered": 906763
     }
   ],
