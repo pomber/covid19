@@ -112480,26 +112480,26 @@
     },
     {
       "date": "2020-7-1",
-      "confirmed": 50483,
-      "deaths": 6132,
+      "confirmed": 50545,
+      "deaths": 6134,
       "recovered": 186
     },
     {
       "date": "2020-7-2",
-      "confirmed": 50546,
-      "deaths": 6132,
+      "confirmed": 50623,
+      "deaths": 6137,
       "recovered": 186
     },
     {
       "date": "2020-7-3",
-      "confirmed": 50546,
-      "deaths": 6132,
+      "confirmed": 50698,
+      "deaths": 6139,
       "recovered": 186
     },
     {
       "date": "2020-7-4",
-      "confirmed": 50548,
-      "deaths": 6132,
+      "confirmed": 50761,
+      "deaths": 6145,
       "recovered": 187
     },
     {
@@ -164690,7 +164690,7 @@
     },
     {
       "date": "2020-4-27",
-      "confirmed": 990999,
+      "confirmed": 990892,
       "deaths": 57233,
       "recovered": 111424
     },
