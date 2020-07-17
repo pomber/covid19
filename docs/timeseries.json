@@ -165590,8 +165590,8 @@
     },
     {
       "date": "2020-4-21",
-      "confirmed": 809228,
-      "deaths": 45919,
+      "confirmed": 809318,
+      "deaths": 45923,
       "recovered": 75204
     },
     {
@@ -165626,8 +165626,8 @@
     },
     {
       "date": "2020-4-27",
-      "confirmed": 990892,
-      "deaths": 57233,
+      "confirmed": 990983,
+      "deaths": 57235,
       "recovered": 111424
     },
     {
@@ -165638,8 +165638,8 @@
     },
     {
       "date": "2020-4-29",
-      "confirmed": 1042926,
-      "deaths": 61955,
+      "confirmed": 1043038,
+      "deaths": 61960,
       "recovered": 120720
     },
     {
@@ -165716,8 +165716,8 @@
     },
     {
       "date": "2020-5-12",
-      "confirmed": 1374916,
-      "deaths": 83480,
+      "confirmed": 1375152,
+      "deaths": 83483,
       "recovered": 230287
     },
     {
@@ -165764,8 +165764,8 @@
     },
     {
       "date": "2020-5-20",
-      "confirmed": 1558971,
-      "deaths": 94528,
+      "confirmed": 1559157,
+      "deaths": 94533,
       "recovered": 294312
     },
     {
@@ -165824,8 +165824,8 @@
     },
     {
       "date": "2020-5-30",
-      "confirmed": 1778995,
-      "deaths": 104773,
+      "confirmed": 1779214,
+      "deaths": 104778,
       "recovered": 416461
     },
     {
@@ -165998,8 +165998,8 @@
     },
     {
       "date": "2020-6-28",
-      "confirmed": 2549294,
-      "deaths": 126360,
+      "confirmed": 2549864,
+      "deaths": 126361,
       "recovered": 685164
     },
     {
@@ -166070,8 +166070,8 @@
     },
     {
       "date": "2020-7-10",
-      "confirmed": 3184573,
-      "deaths": 134092,
+      "confirmed": 3185737,
+      "deaths": 134101,
       "recovered": 983185
     },
     {
@@ -166100,8 +166100,8 @@
     },
     {
       "date": "2020-7-15",
-      "confirmed": 3497847,
-      "deaths": 137407,
+      "confirmed": 3498902,
+      "deaths": 137415,
       "recovered": 1075882
     }
   ],
