@@ -174561,25 +174561,25 @@
     {
       "date": "2020-7-21",
       "confirmed": 3899211,
-      "deaths": 142107,
+      "deaths": 142121,
       "recovered": 1182018
     },
     {
       "date": "2020-7-22",
       "confirmed": 3970121,
-      "deaths": 143302,
+      "deaths": 143316,
       "recovered": 1210849
     },
     {
       "date": "2020-7-23",
       "confirmed": 4038816,
-      "deaths": 144416,
+      "deaths": 144430,
       "recovered": 1233269
     },
     {
       "date": "2020-7-24",
       "confirmed": 4112531,
-      "deaths": 145546,
+      "deaths": 145560,
       "recovered": 1261624
     }
   ],
