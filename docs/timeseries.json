@@ -10434,8 +10434,8 @@
     },
     {
       "date": "2020-8-1",
-      "confirmed": 17269,
-      "deaths": 201,
+      "confirmed": 17895,
+      "deaths": 208,
       "recovered": 10204
     }
   ],
@@ -139182,15 +139182,15 @@
     },
     {
       "date": "2020-7-30",
-      "confirmed": 85486,
-      "deaths": 1962,
-      "recovered": 26996
+      "confirmed": 89374,
+      "deaths": 1983,
+      "recovered": 65064
     },
     {
       "date": "2020-7-31",
-      "confirmed": 85486,
-      "deaths": 1962,
-      "recovered": 26996
+      "confirmed": 93354,
+      "deaths": 2023,
+      "recovered": 65178
     },
     {
       "date": "2020-8-1",
