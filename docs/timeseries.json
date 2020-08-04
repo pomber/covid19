@@ -10488,9 +10488,9 @@
     },
     {
       "date": "2020-8-2",
-      "confirmed": 17938,
-      "deaths": 208,
-      "recovered": 10426
+      "confirmed": 18318,
+      "deaths": 221,
+      "recovered": 10622
     }
   ],
   "Austria": [
@@ -39596,9 +39596,9 @@
     },
     {
       "date": "2020-7-26",
-      "confirmed": 240795,
-      "deaths": 8269,
-      "recovered": 119667
+      "confirmed": 248976,
+      "deaths": 8525,
+      "recovered": 125037
     },
     {
       "date": "2020-7-27",
