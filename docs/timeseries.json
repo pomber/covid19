@@ -216638,14 +216638,14 @@
     },
     {
       "date": "2020-8-13",
-      "confirmed": 5248854,
+      "confirmed": 5248958,
       "deaths": 167110,
       "recovered": 1774648
     },
     {
       "date": "2020-8-14",
-      "confirmed": 5313055,
-      "deaths": 168446,
+      "confirmed": 5313252,
+      "deaths": 168452,
       "recovered": 1796326
     }
   ],
