@@ -63,16 +63,16 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 Flight Info](https://www.covid19globalinfo.com/) ([repo](https://github.com/maschad/covid19-banned-flights)): Flight and Travel info as well as other stats related to the outbreak.
 - [The Curve](https://thecurve.infinitesimals.space/) ([repo](https://github.com/eminx/thecurve)): The Curve
 - [COVID-19 Notifier](https://coronanotifier.com/) ([repo](https://github.com/ElBedeawi/covid19)): Covid-19 Daily Notifier
-- [COVID-19 Daily Report](https://covid19dailyreport.000webhostapp.com/) ([repo](https://github.com/Subhash3/COVID19_ANALYSIS)): Covid19 Daily Report Visualizer
+- [COVID-19 Daily Report](https://covid19dailyreport.000webhostapp.com/) ([repo](https://github.com/Subhash3/COVID19_ANALYSIS)): Covid-19 Daily Report Visualizer
 - [Covid19 Visualizer](https://ray2294.github.io) ([repo](https://github.com/ray2294/ray2294.github.io)): Covid19 Graphical Visualizer
 - [EU stats report on COVID-19](https://covid19eu.jonur.io/) ([repo](https://github.com/Jonur/covid19-eu-report)): COVID-19 tracker for EU countries
 - [CoronaStatistics.live](https://coronastatistics.live) ([repo](https://github.com/OssamaRafique/Corona-Statistics-And-Tracker-Dashboard-Angular-9)): COVID-19 Global Report
-- [COVID-19 World](https://andreasagap.github.io/Covid19-World/) ([repo](https://github.com/andreasagap/Covid19-World)): COVID-19 Global Report
+- [COVID-19 World](https://andreasagap.github.io/Covid19-World/) ([repo](https://github.com/andreasagap/Covid19-World)): Covid-19 Global Report
 - [COVID-19 Comparator](https://covid-comparator.netlify.com/) ([repo](https://github.com/ElSamplio/coronavirus-comparator)): Coronavirus cases comparator by countries, from chosen date and number of days (PWA)
 - [Mobile Friendly COVID-19 Report](http://corona-status.live/) ([repo](https://github.com/ameerthehacker/corona-status)): Coronavirus daily report in a mobile friendly website (PWA)
 - [COVID-19 Daily Report](https://icebob.info/covid19/) ([repo](https://github.com/icebob/covid19)): Coronavirus daily report, updated hourly
 - [COVID-19 GLOBAL Report](https://mdusmanansari.github.io/COVID-19-Global-Report/) ([repo](https://github.com/mdusmanansari/COVID-19-Global-Report/))
-- [covid-charts](https://jeetiss.github.io/covid-charts/) ([repo](https://github.com/jeetiss/covid-charts)): chart widget with Coronavirus stats for specified country
+- [covid-charts](https://jeetiss.github.io/covid-charts/) ([repo](https://github.com/jeetiss/covid-charts)): Chart widget with Coronavirus stats for specified country
 - [COVID-19 Global Chart](https://gabrielcesar.github.io/covid/) ([repo](https://github.com/gabrielcesar/covid)): Chart GeoMap with last status by country.
 - [COVID-19 Stats](https://corona.netflex.dev/) ([repo](https://github.com/thomas-alrek/covid-19-stats)): A simple mobile friendly dashboard visualizing the latest stats of the COVID-19 outbreak.
 - [Corona.log](https://corona-log.now.sh/) ([repo](https://github.com/biewxw/corona.log)): A simple COVID-19 data checker per region
