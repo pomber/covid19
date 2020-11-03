@@ -89,6 +89,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Covid-19 Project to track the spread of coronavirus](https://main-sh4.github.io/cv19/) ([repo](https://github.com/main-sh4/cv19)): Coronavirus information by country
 - [Covid-19 Progress Reports by Country](https://www.bigpicturing.com/) ([repo](https://github.com/Psyzoo/covid19)): Coronavirus (Fight against) Progress by country
 - [COVID-19-LK](https://hela-pawura.github.io/COVID-19-Sri-Lanka/) ([repo](https://github.com/Hela-Pawura/COVID-19-Sri-Lanka)): A Sri Lankan COVID-19 Tracker with a map and dark theme <3
+- [COVID-19 Tracker](https://www.ncoro.com/) ([repo](https://github.com/ncoro/coronavirus-tracker)): Novel Coronavirus COVID-19 tracking website, made simple and viewer-friendly. Spares users the clutter of long tables and offers easy-to-read charts and graphs for 215 country pages.
 - [COVID-19 Mauritius Statistics](https://covid19-mauritius.netlify.com/) ([repo](https://github.com/MrSunshyne/covid19-mauritius/)): A simple page with stats about the current COVID-19 situation in the small island of Mauritius.
 - [Flattening the Curve by Country | COVID-19 🦠](https://flattening-the-curve.commutatus.com/) ([repo](https://github.com/commutatus/covid-19-flattening-the-curve)): A simple dashboard to showcase flattening of the curve by each country affected with COVID-19 - plotted over time.
 - [World map and country comparison timeline](https://jsfiddle.net/highcharts/ehg3zwvy/show): Select multiple countries on the map for a clean comparison of how the number of cases develop.
@@ -154,6 +155,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Visualizing Coronavirus Deaths by Country](https://ithoughthecamewithyou.com/post/visualizing-coronavirus-deaths-by-country): Video showing the increase in deaths by country by day.
 - [Covid-19-chart](https://bharavi15.github.io/covid-19-chart/) ([repo](https://github.com/bharavi15/covid-19-chart)): Simple graph based representation of COVID-19 cases data.
 - [covid-trace](https://github.com/Alberto75/covid-trace): Dashboard created in ReactJS with react-chartjs-2, axios and Ant Design.
+- [Pandemic 19 Monitor](https://pandemic19monitor.xyz/) ([repo](https://github.com/akarshjairaj/pandemic-19-monitor-frontend)): Mobile-responsive COVID-19 Monitoring Dashboard with dark theme functionality and all charts built using D3.js
 
 #### Analysis
 
