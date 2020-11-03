@@ -154,6 +154,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Realtime Statistical Updates on state of COVID19 in Uganda](https://as1ndu.github.io/covidug/index.html) ([repo](https://github.com/as1ndu/covidug)):  A simple dashboard with realtime statistical updates on state of COVID19 in Uganda
 - [Visualizing Coronavirus Deaths by Country](https://ithoughthecamewithyou.com/post/visualizing-coronavirus-deaths-by-country): Video showing the increase in deaths by country by day.
 - [Covid-19-chart](https://bharavi15.github.io/covid-19-chart/) ([repo](https://github.com/bharavi15/covid-19-chart)): Simple graph based representation of COVID-19 cases data.
+- [covid-trace](https://github.com/Alberto75/covid-trace): Dashboard created in ReactJS with react-chartjs-2, axios and Ant Design.
 - [Pandemic 19 Monitor](https://pandemic19monitor.xyz/) ([repo](https://github.com/akarshjairaj/pandemic-19-monitor-frontend)): Mobile-responsive COVID-19 Monitoring Dashboard with dark theme functionality and all charts built using D3.js
 
 #### Analysis
